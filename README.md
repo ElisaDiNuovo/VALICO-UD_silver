@@ -16,9 +16,9 @@ Each line in the txt files begins with an id structured as a-bb_xx-c, where:
 
 	bb is the number of the sentence in the text;
 
-	xx is the ISO code for the learner's native language;
+	xx is the ISO code for the learner's native language (i.e., de for German, en for English, es for Spanish, and fr for French);
 
-	c is the learner's year of study of Italian.
+	c is the learner's year of study of Italian (5 indicates more than 4 years, x indicates unknown).
 
 For example:
 
