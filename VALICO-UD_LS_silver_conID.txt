@@ -1,0 +1,1836 @@
+1-1_de-4#La Statione
+1-2_de-4#C'era una volta una Statione dove sono tanti personi, anche un cane.
+1-3_de-4#C'e molto casino sono anche le Wurstel e un uomo e una donna si baciano.
+1-4_de-4#Due donne e un uomo quardano sul grande Orolocio.
+1-5_de-4#Un Ladro c'e anche, ache un grosso uomo con una cappa alla testa è fuma.
+1-6_de-4#Una donna bere un caffe.
+1-7_de-4#Sono tanti cofferi e un uomo qurda sulle due ce si baciano.
+1-8_de-4#Anche una tasca e un pacceto.
+1-9_de-4#C'e un Tavolo con i macharini e tanti treni.
+1-10_de-4#Una donna aspetava a una sedia e una donna va con un uomo al treno.
+2-1_de-4#Un Uomo con ha una Zigereta.
+2-2_de-4#Un Cane che corre.
+2-3_de-4#Una grande Statione..
+2-4_de-4#Un Bicere che dentro la Cocacola..
+2-5_de-4#Le Uome e le Done chè scendono del Treno.
+2-6_de-4#Un caffe e cualcosa da mangiare.
+2-7_de-4#Un molto grande holorogo.
+2-8_de-4#In statione si cade tra treni..
+2-9_de-4#Sono due che si danno bacci.
+2-10_de-4#Il Uomo con la Zigereta guarda brruto.
+2-11_de-4#Un uomo in treno che aiuto un altro.
+2-12_de-4#E tanto sporco non in cestino.
+2-13_de-4#Sono anche tante valigie.
+2-14_de-4#Sono Persone che parlano.
+2-15_de-4#Una Donna chè aspetà a una persone..
+2-16_de-4#Una lavagnia chè à scrito dove va il treno.
+2-17_de-4#Sono anche negozi che si può mangiare.
+3-1_de-3#In questa stazione sucedono tante cose.
+3-2_de-3#Alcuni aspetono al treno, alcuni leggono quando viene il treno, pure un Barbone e un ladro
+3-3_de-3#Questa stazione è disordinata, tutta l'imondizia è perterra.
+3-4_de-3#C'è un cane che butta tutto perterra e corr come un pazzo e c'è pure una copia che si bacia.
+3-5_de-3#Il Barbone ha un capello, una sigaretta in boccha, una barba lungha e una giaccha di pelle.
+3-6_de-3#Questo Barbone non fa nient altro che fumare e star seduto.
+3-7_de-3#Invece il ladro guarda cosa può rubare e è vestito tutto in nero con una vaccia arrabiata.
+3-8_de-3#C'è un tavolo dove aveva mangiato una familia e ci sono anchora le posate.
+3-9_de-3#Sul muro ci sono delle scritte dei disegni e delle foto.
+4-1_de-5#Thema
+4-2_de-5#Sulla vignetta ce una stazione di treni.
+4-3_de-5#Ce un uomo che a un capello e una sigaretta.
+4-4_de-5#Ci sono tanti tavoli tutti sporchi e per terra ci sono bicchieri rotti, giornali, botiglie,.....
+4-5_de-5#Sulla vignetta ci sono due morosi che si baciano.
+4-6_de-5#Ce anche un ladro che corre come un pazzo.
+4-7_de-5#Nella stazione ce tanto caos.
+4-8_de-5#Ce una donna che siede su una sedia e che a il mantello sporcho.
+4-9_de-5#Un piccolo cagniolino che corre via una tovaglia che e tutta piena di vino rosso.
+4-10_de-5#Vicino al treno c e un uomo che aiuta a un altro uomo a tirare giù delle valigie.
+4-11_de-5#Ce anche un orologio grande che indica le Ore 2:00.
+4-12_de-5#E ce anche una valicia aperta che cascano fuori delle salsicie.
+4-13_de-5#Ci sono delle colonne che ce un manifesto per andare in ferie.
+4-14_de-5#Sulle colonne ci sono anche delle scritte.
+5-1_de-4#LA STAZIONE
+5-2_de-4#A destra c'è un palo di ferro con su: un foglio di publiccittà, un fogliotto con scritto su qual cosa e due firma.
+5-3_de-4#Vicino al palo c'è un cestino con su un disegno.
+5-4_de-4#Vicino ci sono delle lattine.
+5-5_de-4#Più in dietro c'è un meccanico.
+5-6_de-4#Vicino a lui ci sono due che si amano.
+5-7_de-4#Si baciono, con vicino a loro la borsa.
+5-8_de-4#Il meccanico doveva reparare qual cosa e adesso va a casa.
+5-9_de-4#Dietro di lui ci sono i treni.
+5-10_de-4#In uno dei tre treni entrano due persone.
+5-11_de-4#Vicino ai amorati c'è un ladro, ruba le cose di loro.
+5-12_de-4#Mentre un signore fuma un cane scappa via.
+5-13_de-4#Mentre due sposi caminano, lì cade giù una scatolo, con dentro delle scarpe.
+5-14_de-4#Sul pavimento c'è un giornale rotto.
+5-15_de-4#C'è anche un telo amacchiato, dove non si sà che cosa è sotto.
+5-16_de-4#Davanti ci sono delle bottiglie rotte e piatti rotti.
+5-17_de-4#Vicino c'è una scatola con salumi.
+5-18_de-4#Mentre una persona si chiude le orecchie, tre ragazzi guardano sul orologio quadrato.
+5-19_de-4#Vicino alla signora sono due tavoli con su delle cose di cucina.
+5-20_de-4#Il treno ha tante finestrine.
+5-21_de-4#Davanti alla casetta dove si può comprare i biglietti, aspettano tante persone.
+6-1_de-4#La stazione!
+6-2_de-4#Una signora bacia il suo marito.
+6-3_de-4#Un cane corre via.
+6-4_de-4#Un nonno che sembra un ladro fuma.
+6-5_de-4#Una signorina gaurda con il suo amico e la sua nonna il l orologgio.
+6-6_de-4#Un altra signora è nel treno e prende la sua valigia.
+6-7_de-4#Un ladro ruba una valigia grande.
+6-8_de-4#Un ragazzino guarda quando parte il suo treno.
+6-9_de-4#Un altro nonno va via della stazione.
+6-10_de-4#Il meccanico guarda i due amorati che si bacciano.
+6-11_de-4#Altri due amorati vanno anche via.
+6-12_de-4#Una nonna urla.
+6-13_de-4#Un ragazzo saluti i suoi amici.
+6-14_de-4#Due ragazze mangiano panini perchè hanno fame.
+6-15_de-4#Un papà cerca il suo figlio.
+6-16_de-4#Due uomini parlano delle ferie.
+6-17_de-4#Due treni sono pena arrivati.
+6-18_de-4#L'edificio dei panini chiude.
+7-1_de-4#Alla STAZIONE
+7-2_de-4#Questa gente è alla stazione: È le una tutta la gente sta asspetando all'loro treno, Una signora mangia ma qualcuno ha fatto cadere il tavolo e li cade tutto giu.
+7-3_de-4#Ci sono anche due uomini che sembrano ladri Uno fuma la sigaretta l'altro si guarda in torno.
+7-4_de-4#Quella signora che è caduto il tavolo ha visto che era il suo cane che ha fatto questa disordine.
+7-5_de-4#Ci sono anche due amorati che si bacciano perche il uomo deve andare via.
+7-6_de-4#C e anchè un uomo che aiuta a salire a una signora con tanti bagali.
+7-7_de-4#Anchè una coppia che va a pasegare.
+7-8_de-4#Il mecchanico vuole partire per fare il lavoro in un altra città.
+7-9_de-4#C e anchè gente che guardano l'orologo.
+7-10_de-4#PIP PIP si parte.
+8-1_de-4#La stazione un disegno, un cane, una forchetta, una bottiglia, stivali, tre treni, una tazza, l'orologgio, tante persone, tante scarpe, una borsa, un capello, finestre, un mantello;
+8-2_de-4#In mezzo del disegno c'è un cane.
+8-3_de-4#Sul tavolo c'è una forchetta.
+8-4_de-4#C'è anche un mechanico.
+8-5_de-4#C'è anche un giornale sul pavimento.
+8-6_de-4#Sono anche tante persone.
+8-7_de-4#Ci sono anche tre treni
+8-8_de-4#Ci sono tre pali.
+8-9_de-4#Davanti c'è un siniore con una lunga barba.
+8-10_de-4#C'è anche una valiggia.
+8-11_de-4#Sulla sedia c'è una borsa..
+8-12_de-4#C'è anche una fazoletta.
+8-13_de-4#Sono anche pantaloni.
+8-14_de-4#Due persone si baciano.
+8-15_de-4#Sono anche salumi.
+8-16_de-4#Il treno ha tanti finestrini..
+8-17_de-4#C'è anche una scatola.
+8-18_de-4#C'è una siniora che ha una gonna.
+8-19_de-4#Sul cartone c'è un formaggio.
+8-20_de-4#Una siniora ha una cintura.
+9-1_de-4#La stazione bottiglia, bicchiere, persone, cestino, latine, salame, tavole borse, bacciare, camminare, correre, giornale, placate, banditi, uscita, piatti, treni, vetro, parlare, pantaloni, maglie, un cantiere, ferro, scatole, sedia, tasse, pane, scarpe, cappello, capelli, vino, succo, gomme, muri, calce, ladro
+9-2_de-4#La bottiglia di vino è vuota.
+9-3_de-4#Il cane corre velocissimo.
+9-4_de-4#I treni è nella Stazione.
+9-5_de-4#Due persone si sulatano perchè una persona guidano via le placate e alle muri.
+9-6_de-4#I giornali per terra.
+9-7_de-4#La donna siede alla sedia.
+9-8_de-4#Una pachetto e per terra, nel pacchetto ci sono salsicce e un pane.
+9-9_de-4#Una borsa di vestiti è vicino due persone che bacciano.
+9-10_de-4#Sulla tavola ci sono tasse, una bottiglia una bicchiere una forca, serviete e folietti.
+9-11_de-4#Una donna ha scarpe grande.
+9-12_de-4#Un cestino è vicino al treno un altro e vicino dal muro dove un placato.
+9-13_de-4#Un falegname e vicino dal treno con attrezino.
+9-14_de-4#Un l'orologio e sopra del tavolo con tasse di caffè.
+9-15_de-4#Un'uomo portare un pacchetto grande.
+9-16_de-4#Una persona e davanti alla uscita.
+10-1_de-4#Io vede: bagalio, un cane, scarpe, tre treni, personi che caminano, una, un mechinico che ripara, picieri, un grande oroloco, una satola, tante porse, un cornale, un latro che scaba con un pagalio, una persona ce fuma, una persona si guarda sulloroloco, tavole puliti, persone che parlano, persone che vanno via dalla grossa stazione, persone che vengono, persone che vano in un grande treno, una persona piance, una persona che aiuta una altra persona, il pabimendo è sporco, persone con mani in tasca in pantaloni,
+11-1_de-4#La stazione
+11-2_de-4#Nella Stazione sono tante cose e persone che: rubano, fumano, aspetano, entrano, si bacciano, spaventare, guardano, tavolo, cestino, carta, cicca, tante borse, tanta carta, cane, cartone, lorologio, sedia, botiglie, pane, capello, treno eletrico.
+11-3_de-4#Nella Stazione cè una una signiora che è seduta ad un tavolo che è caduto e la siniora si è anche spaventata.
+11-4_de-4#Nella Stazione c'è un nono che fuma una cicca.
+11-5_de-4#2 Persone si baciano.
+11-6_de-4#1 Persona guarda quando il treno elletrico parte.
+11-7_de-4#Il cane scapa dalla signiora e la signiora si spaventa.
+11-8_de-4#Una persona telefona calcuno.
+11-9_de-4#Una persona va ha comprare cualcossa.
+11-10_de-4#2 Persone che entrano nell'treno elletrico.
+11-11_de-4#2 Persone che guardano i biglieti
+11-12_de-4#Sono 2 Persone che guardano le persone
+12-1_de-3#IL TESTO
+12-2_de-3#Ieri al parco stavo leggendo il giornale quando che ho sentito urli forte.
+12-3_de-3#E dopo un po ho potuto vedere l'origine di questo: Un ragazzo di alta statura e muscoloso passava con la sua fidanzata sulla spalla.
+12-4_de-3#Lei ancora stava urlando.
+12-5_de-3#In questo momento ho capito che la fidanzata non voleva essere sulla spalla, però lei non ha potuto opporsi a lui.
+12-6_de-3#Proprio per questo ho deciso di intervenire.
+12-7_de-3#Si deve sapere che anche io sono di alta statura e mi alleno.
+12-8_de-3#Così era semplice per me di sopraffare l'altro e liberare la ragazza.
+12-9_de-3#Mi ho sentito come un'eroe.
+12-10_de-3#Ma lei invece ha iniziato di urlare da nuova.
+12-11_de-3#E non poteva finire.
+12-12_de-3#All'inizio non ho capito perchè ma dopo un po ho potuto immaginare: lei era inammorata di lui e tutto era parte di un gioco tra di loro.
+13-1_fr-2#Ci sono molto gente che aspetano sul binario...
+13-2_fr-2#e la una e tre treni sono arrivati.
+13-3_fr-2#se puè vedere un mecanico con i suoi instrumenti, uno ragazzo e la sua ragazza che se abbrazano, un uomo vecchio che sta fumando, un altro più giovane cercha dove andare e ha paura de qualcosa...
+13-4_fr-2#la polizia?
+13-5_fr-2#Non sappiamo perche sono tante tavole nel cuesto posto!
+13-6_fr-2#Ma ci sono...
+13-7_fr-2#E una scena un pò caotica, sono tante cose cadute sulla terra; bicchiere, botiglia di vino, piati...
+13-8_fr-2#Nessuno sembra interesato per gli treni, mà è dovè è questa stazione?
+14-1_fr-2#Sul binario di questa stazione possiamo vedere molto gente e tre treni.
+14-2_fr-2#La prima vista cé un vecchio con un capello e una pigonetta.
+14-3_fr-2#Un cane corrie.
+14-4_fr-2#Un ragazzo e una ragazza sono enamorati e se dano un braccio.
+14-5_fr-2#Credo che cé un ragazzo che vuole robare qualcuno.
+14-6_fr-2#Ci sono le due al orologio.
+14-7_fr-2#Una tavola cé preparata per la cena?
+14-8_fr-2#Ci sono pachetti aperti con maceleria i dolce!
+14-9_fr-2#A la destra, un ragazzo viene per " reparare "?? un treno.
+14-10_fr-2#Una vecchia è seduta e sembra angosra ma non sapiamo perchè.
+14-11_fr-2#Ha perso la sua valigia?
+14-12_fr-2#Un uomo aiuta una ragazza che è nel treno.
+14-13_fr-2#Lei da la sua valigia.
+14-14_fr-2#Il binario e molto sporco..Bisogna pulirle.
+14-15_fr-2#Ci sono molti giornale bicchiere.
+14-16_fr-2#Ho scoperto che una tavola è (renversée) è perchè la vecchia sembra affolata.
+14-17_fr-2#è una vista molto strana!!
+15-1_fr-2#In questa stazione ci sono treni che sono arrivati.
+15-2_fr-2#Normale.
+15-3_fr-2#Ci sono anche molte gente che sono qui, che stanno arrivadi o che vogliono andare via.
+15-4_fr-2#Ma che fanno gli altri?
+15-5_fr-2#è l'una.
+15-6_fr-2#il tempo del pranzo.
+15-7_fr-2#C'è un resturant nella stazione, ma è un " bordello " totale.
+15-8_fr-2#C'è un cane che sta traversando la stazione e che ha messo tutto parterra.
+15-9_fr-2#Un uomo alto sta fumando, un altro, piu giovane, sta tirando una valigia, una coppia si fanno i baci.
+15-10_fr-2#Dintra, un mecchanico li guarda.
+15-11_fr-2#È veramente una scena caotica..
+16-1_fr-1#È una strania stazione: si può videre le gente che partano in viaggio: per esempio ci sono due persone che si bacciano, e che hanno valligie con loro.
+16-2_fr-1#Ci sono anche treni, binarii.
+16-3_fr-1#Ma, che fa la tavola, a sinistra? E perche vediamo una donna, sulla sedia, in medio della stazione?
+16-4_fr-1#Questa stazione non è pulita: ci sono molte cose sul (par terre): un vecchio giornale, becchieri, crossanti ecc...
+16-5_fr-1#E che fa questo cane, corrente, dove va?
+16-6_fr-1#In centro dell'imagio, si puù vedere un uomo: brutto, con la sua valligia: sta arrivando, va a l'uscita.
+16-7_fr-1#Ma, questa imagio è difficile a descrivere: sono tante cose che non vanno insieme!
+17-1_fr-5#Era l'inizio delle vacanze di Natale.
+17-2_fr-5#La stazione era piena di turisti che correvano in tutte le direzione con le loro valigie.
+17-3_fr-5#C'era molto rumore quando sono uscita dal treno.
+17-4_fr-5#Ho ritrovato il mio amore che aveva già aspetto un ora che il treno arivasse.
+17-5_fr-5#La stazione era piena di gente triste e content.
+17-6_fr-5#Quando mi sono avvicinata del mio amore, ho cominciato a bracciarlo e abbiamo sentito che qualcosa si era rovesciato.
+17-7_fr-5#Qualche secondo dopo, abbiamo visto un cane correre velocemente come se il diablo fosse dietro lui.
+17-8_fr-5#Aveva rovesciato una tavola e aperto la valigia della donna.
+17-9_fr-5#Davanti a noi, c'era un uomo vestito come qualcuno che dormi fuori.
+17-10_fr-5#Mi piaceva molto immaginare a che cose la gente poteva pensare vendendo le loro faccie.
+17-11_fr-5#Dietro a lui c'era l'uomo arrabiato che non è mai contento dei treni e a destra il meccanico che noi invillava molto..
+18-1_fr-5#Siamo in una stazione, c'è al primo piano una tavola con diverse cose.
+18-2_fr-5#C'e anche un'uomo un pò vecchio.
+18-3_fr-5#chi sta fumando.
+18-4_fr-5#Un giornale è al suolo, e un cane corre verso noi.
+18-5_fr-5#Tre persone sono affolate, un'uomo che assomiglia al'uomo in primo piano, e una coppia.
+18-6_fr-5#Un altro coppia si situa un pò davanti a loro.
+18-7_fr-5#Ma questo coppia non è affolato perchè si fanno un baccione.
+18-8_fr-5#Ci sono tre valigie accanto a loro.
+18-9_fr-5#Tre treni sono in ritardo, ma uno dovrebbe partire subito.
+18-10_fr-5#Una donna si è siedeta viccino a una tavola rovesiata, dovunque si sono molti cibi per terra a causa del cane che corre
+18-11_fr-5#Al fondo della stazione c'e un Ristorante in cui due persone avevano comprato una Coca Cola e l'hanno messo per terra fuori dal bidone della spazzatura.
+18-12_fr-5#L'orologio mostra che ci sono due ore del pomeriggio..
+19-1_fr-5#Nel imagine è una scena di tutti i giorni in una stazione ferrovia.
+19-2_fr-5#In questa stazione i treni vengono fermarsi in fondo con uno binario unico.
+19-3_fr-5#C'è uno piccolo cane correre perchè il suo(a) patrone ha lasciato la fune.
+19-4_fr-5#Il binario non è pulitto perche uno giornale trena pertera, una tavola è rovesciatta e Due personne se baciano
+20-1_fr-5#Si trova in una stazione all'inizio del pomeriggio.
+20-2_fr-5#Ci sono tre treni che sono al binario.
+20-3_fr-5#Si può Pensare che uno dei treni ha un problema perchè si vede un meccanico, a destra dell'imagine.
+20-4_fr-5#La stazione sembra affollata, rumorosa.
+20-5_fr-5#Effetivamente, si può vedere molti cosi al suolo come un giornale.
+20-6_fr-5#C'è anche un cane, completamente pazzo che sta correndo, e che ha rovesciato la tavola sulla quella una donna mangiava.
+20-7_fr-5#Ma purtroppo, la tavola è caduta da un lato.
+20-8_fr-5#Di più, si può parlare di qualcuno, al centro dell'imagine, che sembra essere un ladro.
+20-9_fr-5#Pensa che rubi una valigia.
+20-10_fr-5#È probabile che la valigia sia la possessione del uomo o della donna che si abbraciano.
+20-11_fr-5#Devono dirci arrivererci.
+20-12_fr-5#In fondo, ci sono molte persone che aspettano probabilmente il loro treno.
+20-13_fr-5#Invece, davanti all'imagine, c'è anche un uomo vecchio che fuma e riguarda ciò che succede nella stazione.
+20-14_fr-5#Può pensare che è motto povero e non ha casa sua..
+21-1_de-x#Nella stazione ci sono molte persone.
+21-2_de-x#Una donna sta seduta in un ristorante dentro la stazione.
+21-3_de-x#Ci sono due rubatori vestiti come mecanichi.
+21-4_de-x#Uno rinversa la tavola della donna e anche le sue valigie.
+21-5_de-x#L'altro prende una valigia chiusa e vuole partire.
+21-6_de-x#La valigia appartiene ad una coppia amorosa che sta baciando.
+21-7_de-x#I rubatori sono accompagnato da una ragazza con capelli corti.
+21-8_de-x#C'è un giornale al suolo e qualunque rifiuto vicino alla pattumiera.
+21-9_de-x#Davanti se vede la testa di un uomo vecchio chi fuma.
+21-10_de-x#C'è un altro mecanico con una cassetta degli arnesi che guarda i rubatori.
+21-11_de-x#Ai binari ci sono tre treni.
+21-12_de-x#Una donna nel da una valigia ad un uomo che sta sul binario
+21-13_de-x#C'è un orologio che mostra che sono le due.
+21-14_de-x#Piu al fondo ci sono qualche giovane puntè.
+21-15_de-x#Ci sono pubblicità per Coca-cola e altre cose al fondo sopra l'ingresso.
+21-16_de-x#Fuori fa buio.
+21-17_de-x#Un piccolo cane binanco cammina
+22-1_fr-5#La scena si svolge in una stazione, sul binario davanti ai treni.
+22-2_fr-5#Vediamo molte persone facendo diverse cose.
+22-3_fr-5#Un uomo, vestito in nero, sta rubbando una valigia e un mecanico lo guarda.
+22-4_fr-5#Una donna stava mangiando quando un cane fa cadure la sua tavola.
+22-5_fr-5#Una delle sue valigie è aperta e la salumeria che conteneva è per terra.
+22-6_fr-5#Vediamo anche un uomo bracciare una donna.
+22-7_fr-5#Al fondo, c'è un gruppo di tre persone.
+22-8_fr-5#Penso che loro fossano aspettando una quarta persona chi è appena arrivata, perchè la salutano, ma non la vediamo.
+22-9_fr-5#Uno di questo gruppo è un punk, si vede ai capelli.
+22-10_fr-5#sul secondo binario, un uomo aiuta un altro a portare una valigia nel treno.
+22-11_fr-5#Al primo piano un uomo Con una grossa barba sta fumando e guarda un afficio sulla prima colonna.
+22-12_fr-5#al suolo, c'è un bidone della spazzatura, probabilmente pieno perchè vediamo bichieri di cartone vicino a lui..
+23-1_fr-5#Mi riccordo bene di questa stazione.
+23-2_fr-5#Era nel pomeriggio, a due ore esatamente.
+23-3_fr-5#C'era molta gente e dunque la stazione era molto rumorosa.
+23-4_fr-5#La gente era molta diversa.
+23-5_fr-5#C'era un meccanico accanto a un treno.
+23-6_fr-5#A destra di lui, c'era una coppia che si facciava dei baccioni.
+23-7_fr-5#Non so esatamente che cosa succedeva qui, ma c'erano diverse valigie aperte per terra, e a causa di questo incidento, c'era del cibo al suolo.
+23-8_fr-5#Questa stazione era molto sporca con dei giornali per terra anchè.
+23-9_fr-5#E il bidone nella spazzatura era pieno.
+23-10_fr-5#Di più, un cane si era mettuto a correre attraverso la stazione, e il proprietario del cane (era una donna) lo chiamava ma il cane continuava a correre.
+23-11_fr-5#C'erano anche diverse tavole, dove la gente poteva mongiare e bevere.
+23-12_fr-5#Su queste tavole, c'erano delle tasse a cafè o ancora, una boteglia di vino.
+23-13_fr-5#Forse che i clienti avevano comprato tutto questo nei negozi di alimentazione, in fondo alla stazione.
+23-14_fr-5#Mi riccordo di un uomo che fumava una cigaretta; aveva una barba e guardava tutta la scena senza muovere..
+24-1_fr-5#Oggi, non avevo niente da fare dunque ho deciso di andare alla stazione per guardare la gente perchè trovo che è interessante di osservare il comportamento della gente.
+24-2_fr-5#Per comminciare ho visto una copia inamorarsi che si fa tanti bacci.
+24-3_fr-5#penso che la donna piangeva.
+24-4_fr-5#Al stesso tempo uno cane ha corso nella mia direzione, è passato sotto la tavola di un ristorante dove una donna mangiava e questo piccolo cane ha fatto cadere la tavola da un lato e tutte le cose che si trovavano sul questa.
+24-5_fr-5#Era un vero disastro ma molto divertente...
+24-6_fr-5#In fondo, sotto la grande orlogio, c'era due personni che si arrabia perchè il treno era in ritardo di trenti minuti.
+24-7_fr-5#E imprerionante come la gente non ama aspettare oggi!
+24-8_fr-5#Non è permesso il ritardo, non ha il tempo di aspettare.
+24-9_fr-5#vude tutto adesso...
+24-10_fr-5#Alle una un treno è arrivato, una copia è scenduta con le valigie e la copia del primo si ha abbraciati di nuovo prima di andare vicino al treno, l'uomo porteva le valigie e la donna piange molto.
+24-11_fr-5#Forse non si rivedranno...
+24-12_fr-5#Un meccanico passava alla mia destra per andare davanti a la bigliettera in fondo alla stazione.
+25-1_fr-5#Arivo alla stazione alle due per prendere il mio treno per Parigi.
+25-2_fr-5#Sono in anticipo, approfito di tenere tempo per guardare cosa sta succedendo nella stazione.
+25-3_fr-5#Come nelle tutte stazioni, ci sono pieni di gente che aspettano il loro treno ma alcuni mi chiamano l'attenzione.
+25-4_fr-5#A destra c'è un meccanico che va a riparare un treno.
+25-5_fr-5#Quello va ancora avere ritardo!
+25-6_fr-5#Il meccanico sta guardando una coppia.
+25-7_fr-5#siccuramente stano dicendosi arrivederci perche si abbracciano.
+25-8_fr-5#L'uomo si va in viaggio, forse per affare.
+25-9_fr-5#Nel centro della stazione si trova un'uomo vestito di nerro.
+25-10_fr-5#Può essere un rubadore perche ha la cara chiusa e minacciata.
+25-11_fr-5#Dietro di lui, c'è altra coppia che sembra partire insieme per viago per vacazione forse.
+25-12_fr-5#Ma è disturbato per le valigie di una donna con cappo a sinistra che stanno volando nella stazione.
+25-13_fr-5#Questa ultima donna è panicata perche il suo cane ha rovesciato la tavola sulla che stava mangiando prima di prendere il suo treno.
+25-14_fr-5#Tutte le sue valigie sono cadute e il cibo è sul suolo.
+25-15_fr-5#Mentre che sta gritardo, il suo cane sta fugiendo troppo felice di essere libero.
+25-16_fr-5#Nel primo piano, c'è un uomo, un marino probabilmente che guarda tutta la scena come io.
+25-17_fr-5#Non interviene, solo sta qui, imperturbabile.
+25-18_fr-5#Al fondo della stazione, c'è gente che sta guardando l'orologio per verificare se sono all'ora.
+25-19_fr-5#La scena è in disordine, si passa qualcosa in tutti i lati.
+25-20_fr-5#È troppo per me, me ne va tornare un caffè al calmo!
+26-1_fr-4#La scena si svolge alla stazione.
+26-2_fr-4#Ci sono tre treni e ci sono soppratutto tante personne sul binario.
+26-3_fr-4#Nel primo piano c'è un vecchio uomo che sta fumando.
+26-4_fr-4#Vicino a lui ci sono un giornale e un cane che sta correndo.
+26-5_fr-4#Questo cane ha probabilmente causato un accidente perchè si vede una tavola che è caduta (ci sono cose al suolo).
+26-6_fr-4#Vediamo anche al centro della " fotografia " un uomo che sta rubando una valigia, probabilmente il meccanico l'ha visto perchè guarda nella sua direzione.
+26-7_fr-4#A canto al meccanico ci sono due personne che si fanno baccioni.
+26-8_fr-4#Nel fondo della pittura ci sono deverse personne ma non vedo bene cosa fanno.
+26-9_fr-4#Posso distinguare un gruppo di tre amici che dicono " bye- bye " a qualcuno in un treno.
+26-10_fr-4#Al fondo della stazione c'è un ristorante, piutosto di tipo " fast food ".
+26-11_fr-4#C'è anche un'enormo orologio che indica 2 ore.
+26-12_fr-4#sulla prima colonna c'è una foglia; forse è una promozione per fare un viaggio su un'isola dove ci sono sole e mare.
+26-13_fr-4#Alla mettà della pittura c'è una vecchia dona che sembra seffire a causa del rumore.
+26-14_fr-4#Finalmente si vede un uomo che sta aiutando una dona a portare la sua valigia nel secondo treno..
+27-1_fr-5#La scena si svolge in una stazione.
+27-2_fr-5#In primo piano c'è un vecchio uomo che fuma.
+27-3_fr-5#In secondo piano c'è un alttro uomo che assomiglia a un ladro.
+27-4_fr-5#Due persone si bacciano.
+27-5_fr-5#Dietro di loro c'è un meccanico che li guarda.
+27-6_fr-5#Dietro il ladro ci sono anche due persone, una donna ed un uomo.
+27-7_fr-5#L'uomo fa cadere i suoi pachetti che contengono scarpe.
+27-8_fr-5#Ha già fatto cadere un altro pachetto che contiene salami.
+27-9_fr-5#Un cane fugge e fa cadere una bottiglia dei piatti e delle tazze che si trovavano su un tavolino.
+27-10_fr-5#La tovaglia è macchiata.
+27-11_fr-5#Una donna stava mangiando.
+27-12_fr-5#Vediamo tre treni fermi sul binario..
+28-1_de-x#Ieri al parco ho visto una strana scena: Verso mezzogiorno ho fatto una passeggiata nel parco perche non pioveva piu.
+28-2_de-x#Ho trovato una banca carina al sole e ho letto il giornale.
+28-3_de-x#Improvvisamente è passata una coppia molto agitata.
+28-4_de-x#uomo muscolosissimo con una espressione arrabiata stava portando la sua ragazza sulla spalla.
+28-5_de-x#La donna ha urlato: "Aiutami! Non lo voglio!"
+28-6_de-x#Ho smesso di leggere e mi sono alzato per aiutarla.
+28-7_de-x#Glio ho dato due colpi di pugno.
+28-8_de-x#E caduto e non si è mosso piu.
+28-9_de-x#Ho sperato che la ragazza mi disse grazie.
+28-10_de-x#Ma la sua reactione mi ha molto sorpreso: Sembrava preoccupata e guardava l'uomo con compassione.
+28-11_de-x#Improvvisamente ho levato il pugno chiuso verso me e ha detto: "Maledetto! Chi credi di essere? Che diritto hai di fare male al mio fidanzato?"
+28-12_de-x#"Non riesco a capire le donne! Prima hai chiesto aiuto e adesso sei arrabiata perché ti ho aiutato!"
+28-13_de-x#"Stupido! Era una sbagliata: Siamo una coppia molto passionale, non era una cosa seria!"
+29-1_de-x#Vediamo una stazione con le treni e alcuni personaggi.
+29-2_de-x#C'è una coppia con parecchhi bagagli che si congeda con un bacio intenso.
+29-3_de-x#Alle spalle dell'uomo un alto uomo dai vestiti nero ruba la sua valigia.
+29-4_de-x#In questo momento un piccolo cane corre attraverso la stazione e rovescia una tavola apparecchiata con piatti, cibi e bevande.
+29-5_de-x#La donna che sta seduta a questa tavola si tappa le orecchie e la tovaglia è imbrattata.
+29-6_de-x#Nel primo piano c'è un uomo con barba e berretto nero che fuma una sigaretta.
+29-7_de-x#Sul mmarcia piede c 'è un altro uomo con una cassetta degli arnesi che osserva la situazione.
+29-8_de-x#Sul orologio sopra la X segna l'una.
+30-1_fr-x#Ieri al parco al prima un uomo chi è molto grande e brutto prende una bella donna.
+30-2_fr-x#Ma questa donna chi ha una gonna non vuole che questo uomo la prende.
+30-3_fr-x#Allora la donna si arrabia.
+30-4_fr-x#Ma un altro uomo chi legge il giornale su un banco vuole che essere un hero.
+30-5_fr-x#Allora l'uomo da un pugno a l'uomo chi vuole prendere la bella donna.
+30-6_fr-x#Ma quando l'uomo da un pugno, la donna non cpisce, ma l'uomo è molto contento perchè pensa ha fatto qualcosa di bene.
+30-7_fr-x#Finalmente la bella donna non è contenta perchè questo ragazzo è il suo ragazzo.
+30-8_fr-x#Allora l'uomo la dice che non l'ha saputo..
+31-1_fr-x#In questa stazione, posso vedere molte persone e è all'una.
+31-2_fr-x#Qualche personna con loro valigie vogliono prendere un treno.
+31-3_fr-x#Ma posso vedere che questa stazione è sporsa e disordinata perchè il pavimento è sporso.
+31-4_fr-x#Su il pavemento ci sono un giornale e dei piatti e una macchia.
+31-5_fr-x#Poi, posso pensare che c'è un grosso problema in questa stazione perchè c'è un uomo bizarre.
+31-6_fr-x#Penso che questo uomo ha provato prendere qualcosa a qualcuno senza domandare.
+31-7_fr-x#Poi, posso vedere una donna seduta con una gonna chi prova a non ascoltare il rumore.
+31-8_fr-x#Finalmente penso che l'uomo bizarre è un uomo chi ha fatto qualcosa di male perchè qualche persone lo vdonno..
+32-1_es-x#Ieri al parco stavo leggendo il giornale come tutti i giorni di domenica.
+32-2_es-x#Il giornale di ieri era troppo noioso.
+32-3_es-x#Stavo per finirlo quando ho visto un uomo che portava una donna tra i suoi braccia.
+32-4_es-x#La donna piangeva e gli diceva al uomo di lasciarla, che voleva tornare a casa.
+32-5_es-x#Io non sapevo che fare, volevo aiutarla ma non ero sicuro se io era più forte dal uomo.
+32-6_es-x#Finalmente mi sono deciso e sono andato dove lui era per litigare con lui.
+32-7_es-x#L'ho colpito nella faccia e è caduto a terra.
+32-8_es-x#Io pensavo che la donna era contenta ma mi ha detto che quel uomo che avevo colpito era il suo marito e che solo stavano giocando..
+33-1_es-x#Ieri al parco un ragazzo chiamato Luigi stava leggendo il giornale La Repubblica.
+33-2_es-x#Di ripenti un uomo molto forte portava una ragazza.
+33-3_es-x#Come il ragazzo non sapeva che cosa succedeva, pensava che l'uomo voleva golpeare alla ragazza.
+33-4_es-x#Il ragazzo si alza e golpea l'uomo, che cade.
+33-5_es-x#Dopo la ragazza stava furiosa della sua rabia.
+33-6_es-x#La ragazza lui dice che l'uomo che la portava era il suo marito e che le due andavanno al cinema per vedere un film molto interessante.
+33-7_es-x#Il ragazzo non poteva credere quello che stava succedendo.
+33-8_es-x#Poi, il ragazzo si disculpa e invita la ragazza a un caffè..
+34-1_es-x#Ieri al parco sono stato sul banco leggendo il giornale quando...accidenti!
+34-2_es-x#una bella donan era stata attacata per un brutto tipo.
+34-3_es-x#Ho pensato se io era in grado di fare qualcosa per aiutarla.
+34-4_es-x#Ho pensato: posso o non posso vincere al uomo grande.
+34-5_es-x#Ho creduto che si, sono andato e ho detto all'uomo: Patella con me?
+34-6_es-x#ho vinto al uomo in un gran carlate ma la bella donna bionda mi sono detto che lei è innamorata del uomo.
+34-7_es-x#E io ho detto:" non è un buon giorno"!
+35-1_es-x#Ieri al parco he vissuto una cosa molto rara che non ho vissuto mai.
+35-2_es-x#Io leggia  il giornalagio al parco tranquilamente e in questo momento he visto come un uomo ha preso una moglie.
+35-3_es-x#non ho saputo che cosa dobbia fare ma ho deciduto salvare questa donna.
+35-4_es-x#sono andato cerca dell'uomo e ho datto con la mia mano nella testa di questo uomo chi e tombato sulla terra.
+35-5_es-x#La ragazza ha voluto fare la estesa cosa con me ma ho lei demandato Che cosa fai?
+35-6_es-x#Te ho salvato la tua vitta!
+35-7_es-x#In questo momento la ragazza mi ha detto io non te demandato de salvarmi la vitta, quest'uomo è mio marito.
+36-1_es-x#Ieri al parco ho visto come una ragazza si è arrabiata con il suo fidanzato.
+36-2_es-x#Hanno litigato tantissimo che la ragazza ha iniziato a gritare domandando aiuto perche il suo fidanzato lo ha presa per andare a un altro luogo.
+36-3_es-x#In questo mismo momento un ragazzo che sembraba essere legiendo il giornale ha uscito rapdamente per vedere cosa staba sucediendo.
+36-4_es-x#Quando è arrivato per la figura che sta vedendo sembra che questo ragazzo si ha battito con il altro per la ragazza, ma questa si è arrabiata con lui perche era solamente una litigazione di inamorati.
+37-1_es-x#Ieri al parco stavo leggendo il giornale tranquillamente, quando ho visto un uomo alto, grande e fortissimo che portava una donna alla spalla destra.
+37-2_es-x#La donna era molto arrabiata e non voleva che l'uomo la portava in questo modo.
+37-3_es-x#Dopo li ho visto, io pensato che non potevo lasciare la donna con quell'uomo e ha deciso di aiutarla.
+37-4_es-x#Li ho dato un colpe terribile alla testa e dopo alcune secunde l'uomo grande stava per terra.
+37-5_es-x#Nonostante la donna non era felice, piangeva moltissimo mentre guardava al poverino uomo in terra.
+37-6_es-x#Lei era molto arrabiata con me perchè avevo lasciato KO al suo uomo, al meno questo ho sentito di quello che me spiegava.
+38-1_es-x#Ieri al parco c'era un uomo seduto che stava leggendo il giornale e ha visto un uomo che portava la sua amica in alto.
+38-2_es-x#Allora l'uomo seduto seduto ha corso per aiutare a la donna che sembrava non voleva andare con lui.
+38-3_es-x#L'uomo che la portava in alto sembrava arrabiato e forte e la donna sembrava debole.
+38-4_es-x#L'uomo seduto sembrava debole anche perchè lui leggeva il giornale tranquillamente e perchè portava degli occhiali ma lui era veramente forte e ha vinciuto a l'altro uomo.
+38-5_es-x#Allora la donna ha corso per aiutare al suo amico e ha avuto paura per lui.
+38-6_es-x#Alla fine, la donna era molto arrabiata con l'uomo che era seduto perchè lei non voleva essere salvata..
+39-1_es-x#Ieri al parco c'era un uomo leggendo tranquilamente il giornale seduto sul banco.
+39-2_es-x#Poi ascolta voci di una coppia che si disputa.
+39-3_es-x#Il ragazzo porta alla ragazza con i brazi, sembra molto arrabiato e lei chiede aiuto.
+39-4_es-x#Il uomo decide di aiutare la ragazza, perchè pensa che magari sia un rapto.
+39-5_es-x#é sicuro che il ragazzo lo fa contro la volontà di lei e ha paura per la sua sicurezza.
+39-6_es-x#L'uomo si alza e cerca di parlare con il ragazzo, ma è molto aggressivo.
+39-7_es-x#Finalmente l'unico modo per lasciare la ragazza libera è farlo cadere.
+39-8_es-x#A causa della caduta, il ragazzo perde la concienza.
+39-9_es-x#Il crede di aver fatto bene, ma ora è la ragazza chi è molto arrabiata e aggresiva...
+40-1_de-0#Ieri sono andato al parco per leggere un pò il giornale, perchè era una bella giornata e lavoravo molto prima.
+40-2_de-0#Pingu Comics.
+40-3_de-0#Mi ho seduto e ho cominciato da leggere, subito e venuto un uomo molto forte con una ragazza bionda sulle spalle.
+40-4_de-0#E lui ha detto " aiutame, aiutame ".
+40-5_de-0#Ero molto sorpresso e prima non ho capito niente, non ho potuto movirmi.
+40-6_de-0#Ma dopo mo ho ricordato alla mia storia di comic, dove tutte le gurte non hanno paura.
+40-7_de-0#E poi mi ha subito molto forte e sono caminato dietro l'uomo con la donna sulle spalle.
+40-8_de-0#E che cosa posso dir, ho fatto una guerra grande con il ragazzo.
+40-9_de-0#Ma io ero di piu dè lui.
+40-10_de-0#Ma come il ragazzo cattivo è caduto sulla terra, lei era molto arrabbiata.
+40-11_de-0#E ho non capito niente.
+41-1_fr-2#Un uomo con occhialie una donna eraveno sedersi sul un barco, non si conoscono, Un altro uomo arriva e prende la donna come se la donno non era daccorda.
+41-2_fr-2#Ma questo uomo e l'Amico che la donna ama.
+41-3_fr-2#Allora l'uomo che lei non conosce, vuole defendere lei.
+41-4_fr-2#Parti contro l'amico della donna e lo fa male per che lui lascia la donna.
+41-5_fr-2#L'uomo con occhiali si senti forte perchè ha defendito la donna ma la donna è abbraciata e speggia a lui che è sbagliato.
+41-6_fr-2#Ma il male è fatto, è troppo tardo per riparare.
+41-7_fr-2#Nonostante il uomo con occhiavi e non è bruto, pensava fare il buono
+42-1_es-1#Ieri al parco mio fratello stava leggendo il giornale quando ha visto un uomo portando una donna sopra i suoi ombrelli.
+42-2_es-1#Subito, lui è andato dove era la donna per aiutarla e ha dato un calcio al uomo.
+42-3_es-1#Lui stava contentissimo perche pensava che cossì aveva aiutato a la povera donna.
+42-4_es-1#Ma, per la sua sorpresa, la donna ha comminciato a gridarli.
+42-5_es-1#Lei stava arrabiata!
+42-6_es-1#Lui non sapeva cosa fare.
+42-7_es-1#Dopo dirli che li dispiaceva, lei li ha explicato ch'il uomo era il suo fidanzato.
+42-8_es-1#Mio fratello è ritornato a casa troppo triste e ha jurato de non aiutare nessuno mai più!
+43-1_es-1#Ieri al parco ero sieduto leggendo il giornale tranquillamente.
+43-2_es-1#Quindi un uomo ha portato una donna e è andato via.
+43-3_es-1#Io fui velocemente per prendere la donna.
+43-4_es-1#Ho buttato al uomo per terra.
+43-5_es-1#Dopo ho visto come le donna no era felice e ha cominciato a gridare.
+43-6_es-1#Non sapebba perchè mai lei mi ha ditto que questo ragazzo era il suo ragazzo.
+43-7_es-1#Adesso non devo fare questo mai.
+44-1_es-1#Ieri al parco quando leggevo il giornale mi ha successo una cosa molto strana.
+44-2_es-1#Ho visto un ragazzo che prendeva una ragazza.
+44-3_es-1#Lei gridava e ho pensato che dovevo aiutarla.
+44-4_es-1#Alla fine ho potuto risolvere la situazione: ho lasciato al ragazzo sul piaco; e credevo che avevo fatto bene però la ragazza era molto arrabiata perchè lui era il suo fadanzato!
+45-1_en-2#Ieri al parco quando facevo una passiagiat, è successo una cosa strana!
+45-2_en-2#Un uomo grande e brutto portavo sulle spalle una donna che gridava " Aiuto! Aiuto!"
+45-3_en-2#Il giovane che stava seduto leggendo il suo giornale, anche lui come me, si domandava che fare.
+45-4_en-2#Poi subito il giovane si è alzato e ha gridato all'uomo " Lasciala Lasciala! Se no chiamerò i carabinieri!"
+45-5_en-2#Subito, l'uomo e la donna non stava contenta.
+45-6_en-2#" Ma come? stiamo gioccando "
+46-1_es-1#Ieri al parco ho visto e un ragazzo che portava la sua ragazza "secuestrata", e un ragazzo che leggeva a stampa e stampa un banco dil parco, va vedere la scena i lui voleva aiutar a la povera ragazza.
+46-2_es-1#Per quello, il ragazzo di occhiali (che stava a un banco del parco) va golpeare al brutto ragazzo per liberare a la ragazza di bricci dil ragazzo che la portava.
+46-3_es-1#Il problema, per la mia sorpresa, essere dopo, quando la ragazza invece di donare mil grazie al ragazzo, salvatore, li va donare una lezione, molto calda lei, dove lei manifestava la sua furia perche non era secostro, anche era una conflito  di simpli emamorai.....
+46-4_es-1#per me non era di questo modo, anche per il ragazzo di occhiali...
+47-1_es-1#Un ragazza con occhiali in un parco.
+47-2_es-1#Lui ha guardato una ragazza bionda con il suo fidanzato.
+47-3_es-1#Il fidanzato era molto forte e la prendeva sull sou corpo.
+47-4_es-1#La ragazza gritava.
+47-5_es-1#Il altre ragazzo ha pensato qui lei bisognava aiuta.
+47-6_es-1#Il ragazzo ha fatto una accione violenta con il fidanzato e il ragazzo era nel suolo.
+47-7_es-1#La ragazza era molto triste ma il ragazzo con occiali pensava che il era un heroe.
+47-8_es-1#Da subito la ragazza ha detto che lei lo amava da morire.
+47-9_es-1#la ragazza gridava e non voleva pace.
+47-10_es-1#Il ragazzo era molto preocupato e non capiscava niente.
+48-1_es-1#Ieri al parco Valentino un uomo che si chiama Gianni era andato a piedi a vedere i fiori perche lui stava stanco per el lavoro della settimana.
+48-2_es-1#Dopo, lui stava in un banco leiendo il giornale cuando ha visto un ragazzo con una ragazza sulla la testa.
+48-3_es-1#La ragazza non voleva andare con lui allora Gianni ce era molto forte mentre la ragazza gridava Lui la liberò del ragazzo bruto.
+48-4_es-1#La donna li ha ditto grazie a Gianni mentre il ragazzo stava in terra.
+48-5_es-1#Poi, la donna semblava moleste, ma io credo che lei stava enamorata di Gianni.
+48-6_es-1#Forse Gianni ha accompagnato alla ragazza a la sua casa e anno fatto una cena in sieme.
+49-1_es-1#Ieri al parco Marco leggeva un giornale tranqulamente, pèro di repente ha sentito la voce de una donna qui diceva " Aiuta, per favore! ".
+49-2_es-1#Marco ha guardato la situazione e è andato a parlare con l'uomo e la donna, senza ascoltare che li dicevano Marco si ha arrabiato con l'uomo per che ha pensato che stava faccendo male a la donna pèro doppo la donna si ha arrabiato con Marco per che veramente l'uomo non la stava faccendo male, tutto era un giocco e l'uomo era il suo ragazzo.
+49-3_es-1#Marco Dopo Marco aveva vergogna per il suo atto.
+50-1_en-1#Ieri al parco sono andata per fare un paseggio quando, purtroppo un grande uomo brutissimo è venuto e m'ha presso!
+50-2_en-1#Ho hurlato e un uomo gentile che leggeva un giornale mi ha sentito ed è venuto per aiutarme.
+50-3_en-1#Finalmente, il gentile uomo ha grappato il uomo brutissimo e ero salvata!
+50-4_en-1#Pingevo ma il uomo m'ha detto che tutto sarebbe bene.
+50-5_en-1#mi piacevo molto questo uomo e doppo essere andati alla polizia, siamo andati per una cena insieme!
+51-1_es-x#Un ragazzo che stava leggendo il giornale nell parco, veda alto ragazzo chè porta a una ragazza y lui sembra un man
+51-2_es-x#Il ragazzo chè sta leggendo si alza y va a defendere alla ragazza.
+51-3_es-x#Ma cuando il ragazzo salva alla ragazza dello tonano a lei no piace che il ragazzo ha preso alla tonano perchè lui è il suo ragazzo.
+51-4_es-x#Allora la ragazza non stata niente contenta perche lei stata enamorata.
+52-1_fr-5#Ieri al parco, stavo leggendo il mio giornale come all'mia abitudine.
+52-2_fr-5#Dopo qualche minuto, sentii una ragazza gridare come una pazza!!
+52-3_fr-5#cosa stava succedendo?
+52-4_fr-5#alzando gli occhi, e vedevo un uomo che portava la sua fidanzata sulle spalle come se fosse una grossa borsa!
+52-5_fr-5#Decisi di agire come superman..
+52-6_fr-5#Allora, raccolsi tutto il mio coraggio.
+52-7_fr-5#Dopo qualche pugno, il cattivo fidanzato cadde a terra e, io fui fiero di me.
+52-8_fr-5#Ma la ragazza non sembrava molto contenta..
+52-9_fr-5#Mi insultava arrabbiata perché avevo quasi ucciso il suo fidanzato, voleva addirittura darmi un pugno.
+52-10_fr-5#Ieri, ho capito qualcosa: che non capirò mai niente dell'amore!
+53-1_fr-5#Ieri al parco, stavo leggendo il giornale quando mi é passato davanti un ragazzo con una donna sulle spalle.
+53-2_fr-5#Questo ragazzo sembrava arrabbiato e la donna sembrava avesse paura, perciò  decisi di aiutarla.
+53-3_fr-5#Siccome sono piuttosto muscoloso, non avevo paura di battermi con lui.
+53-4_fr-5#Ho domandato al ragazzo di liberare la ragazza ma lui non ha acconsentito.
+53-5_fr-5#Così ho sferrato un pugno fortissimo nell'addome.
+53-6_fr-5#È caduto come un sacco a terra.
+53-7_fr-5#La donna ora era libera ma dopo un'attimo di stupore si avventa contro di me dicendo che lei amava il ragazzo benché fosse talvolta un po' violento.
+54-1_fr-5#Ieri al parco ero seduta, leggendo il giornale.
+54-2_fr-5#Faceva bel tempo e mi dicevo che niente avrebbe potuto guastarmi la giornata.
+54-3_fr-5#Ma improvvisamente, una ragazza,che sembrava piuttosto bella, é apparsa davanti a me.
+54-4_fr-5#Stranamente non toccava terra e  aveva come delle ali.
+54-5_fr-5#Pensavo di sognare, ma il suo grido mi svegliò.
+54-6_fr-5#Vidi che non era un putto ma una vera ragazza caricata sulle spalle di un'uomo.
+54-7_fr-5#Restai senza fiato nel vedere gli enormi muscoli dell'uomo, poi i miei occhi si fissarono sulla ragazza: bionda, come una principessa.
+54-8_fr-5#Con veloce, cervello, ha funzionato: la bellissima principessa era stata rapita!
+54-9_fr-5#Allora mi sono fatta coraggio, e ho seguito lo strano, arrabbiato.
+54-10_fr-5#Con le mani, ho preso a pugni il cattivo ragazzo, fino a stremarlo.
+54-11_fr-5#Poi ho aspettato con la consapevolezza  di chi ha compiuto il proprio dovere i ringraziamenti della principessa, e perché no un bacio.
+54-12_fr-5#Ma lei sembrava piuttosto imparita ed é tornata contrariata e molto arrabbiata.
+54-13_fr-5#Senza capire, perché  mi insulto'.
+54-14_fr-5#In fine, la bionda ragazza mi ha spiegato il suo atteggiamento: era innamorata  dell'uomo che avevo preso a pugni!
+54-15_fr-5#Per lei, il rapimento era una tecnica di seduzione, molto romantica.....
+54-16_fr-5#mi sono ritirata senza aiutarla questa volta e ho deciso che non giocherò più ai cavalieri.........
+55-1_fr-5#La scena si svolge in una stazione.
+55-2_fr-5#Vediamo parecchie persone che fanno cose totalmente diverse.
+55-3_fr-5#A destra due fidanzati si abbracciano e dietro di loro, c'é un uomo che li guarda.
+55-4_fr-5#Al centro, un uomo che sembra rubare una valigia, e ne spinge un'altro.
+55-5_fr-5#Quest'ultimo lascia cadere per terra i pacchetti che portava in cui c'erano delle scarpe e del salame.
+55-6_fr-5#In primo piano appare il viso di un uomo che fuma una sigaretta.
+55-7_fr-5#A sinistra, vediamo una tavola apparecchiata.
+55-8_fr-5#Accanto a questa, una donna é seduta e sembra spaventata perché il suo cane é partito e un tavolo si é rovesciato.
+55-9_fr-5#In primo piano c'é molta confusione (un giornale per terra, la tavola rovesciata...) invece in secondo piano, tutto sembra più organizzato.
+55-10_fr-5#Sul fondo, vediamo un'orologio e delle persone che sembrano aspettarne altre sul binario.
+56-1_fr-4#Sono le due.
+56-2_fr-4#Alcuni giornali sono per terra nella stazione.
+56-3_fr-4#Due viaggiatori si stanno  abbracciando, per dirsi arrivederci.
+56-4_fr-4#Al primo piano un vecchio uomo fuma una sigaretta.
+56-5_fr-4#Un uomo sta guardando verso un cane, forse perché é stato lui a versare la tavola del ristorante della stazione.
+56-6_fr-4#In fondo un viaggiatore consegna i suoi bagagli per metterli sul treno.
+56-7_fr-4#A destra, c'é un meccanico che forse ha riparato il treno.
+56-8_fr-4#Al centro c'é un'uomo tutto vestito di nero, ed a destra, sulla colonna, c'é una vignetta di viaggio.
+57-1_fr-5#In questa foto vediamo che la scena si svolge in un ristorante che si trova in una stazione.
+57-2_fr-5#Al primo piano c'é un uomo che sta fumando.
+57-3_fr-5#C'é un giornale per terra.
+57-4_fr-5#Si vede anche una coppia che si bacia e vicino a loro c'é un ladro che ruba  una valigia forse quella dell'uomo.
+57-5_fr-5#Il  meccanico dei treni vede la scena ma non reagisce.
+57-6_fr-5#Le tavole sono in disordine nella stazione.
+57-7_fr-5#Un cane sta fuggendo.
+57-8_fr-5#Una donna è seduta e guarda con stupore il disastro.
+57-9_fr-5#Sono le due del pomeriggio.
+57-10_fr-5#Penso che questa scena mostri la società nella quale viviamo dunque in cui non vediamo più quello che succede attorno a noi, una società individualista.
+58-1_fr-5#L'ambiente rappresentato è l'interno di una stazione.
+58-2_fr-5#Molte cose stanno succedendo allo stesso tempo.
+58-3_fr-5#A destra c'é una coppia che si sta abbracciando.
+58-4_fr-5#Ci sono tre tavoli apparecchiati uno cade per colpa di un cane agitato che ha perso la maestra.
+58-5_fr-5#Pertanto tutto quello che c'era sul tavolo é rotto per terra.
+58-6_fr-5#Questa stazione é molto sporca perché ci sono bevande il cui liquido si spande a terra e c'é diversi rifiuti per terra.
+58-7_fr-5#C'é un'orologio  in fondo che segna l'una (forse).
+58-8_fr-5#Al primo piano c'é un uomo che sta fumando.
+58-9_fr-5#L'ingresso della stazione é al fondo.
+58-10_fr-5#Poi ci sono altri gruppi di persone ma non si riesce a distinguere esattamente quello che fanno.
+58-11_fr-5#In fondo presumo che ci sia uno snack perché si vedono hambourger, bevande.
+58-12_fr-5#A destra della scena c'é un meccanico che probabilmente deve riparare un treno.
+59-1_fr-4#La scena si svolge all'interno di una stazione.
+59-2_fr-4#Sono le due, e la stazione é affollata.
+59-3_fr-4#Molte persone si incontrano.
+59-4_fr-4#Al centro notiamo col suo vestito nero un ladro.
+59-5_fr-4#Forse sta cercando qualcosa o qualcuno, o di non essere sorvegliato dalla polizia.
+59-6_fr-4#Dietro di lui, una donna lo sta osservando, come se avesse capito le sue intenzioni di rubare qualcosa.
+59-7_fr-4#Nell'altro lato, una coppia si bacia ed abbraccia prima di partire.
+59-8_fr-4#Tutti i bagagli sono per terra, ai loro piedi.
+59-9_fr-4#Un uomo vicino al treno, sembra guardarli.
+59-10_fr-4#Ha una maglietta e una chiave da meccanico in mano.
+59-11_fr-4#La donna che sta osservando il ladro é accompagnata da un uomo sicuramente suo marito.
+59-12_fr-4#Il poveretto é carico di pacchetti pesanti, uno di questi cade sul tavolo.
+59-13_fr-4#A causa di questa caduta, un cagnolino si impaurisce e fugge dai piedi della maestra che lo chiama ad alta voce
+60-1_fr-5#Ieri al parco stavo camminando.
+60-2_fr-5#Faceva bel tempo :un cielo azzurro, molti uccelli  sugli  alberi che cantavano.
+60-3_fr-5#Ero tranquilla quando un brutto grido, mi disturbò.
+60-4_fr-5#Guardavo vicino, a me, a sinistra, a destra, ma non c'era niente.
+60-5_fr-5#Tuttavia davanti a me sembrava che si svolgeva una strana scena.
+60-6_fr-5#Infatti vidi una donna di circa 25 anni che guidava.
+60-7_fr-5#Ma la cosa più sorprendente era l'uomo che la stava portando senza il suo consenso.
+60-8_fr-5#Passarono vicino a un'uomo che stava leggendo il giornale.
+60-9_fr-5#Quando vide "la coppia", lasciò il suo giornale, si alzò, poi fiero e determinato, andò a vedere il brutto uomo.
+60-10_fr-5#La scena che si svolse dopo, non la racconto ma posso dirvi che che fu molto violenta...
+60-11_fr-5#Il bruto era a terra.
+60-12_fr-5#Mi sembrava che la donna, quando si avvicinò al suo salvatore, volesse ringraziarlo.
+60-13_fr-5#Ma a me, al contrario, gridò ancora più forte: "Ma sono innamorta di quest'uomo, perché gli fai del male?"
+60-14_fr-5#Strana storia.......
+61-1_fr-5#Ieri al parco un uomo leggeva il suo giornale su un banco quando una donna parlò fortissimo e veloce:" lasciami, lasciami...! "
+61-2_fr-5#Era portata da un uomo molto forte.
+61-3_fr-5#Allora l'uomo del giornale decise di prendere il suo coraggio  a due mani e di aiutare questa donna che sembrava in difficoltà.
+61-4_fr-5#Dunque andò a picchiare l'uomo che portava la donna.
+61-5_fr-5#Era contento quando l'uomo cadde per terra.
+61-6_fr-5#Era un uomo orgoglioso.
+61-7_fr-5#Ma la donna che aveva smesso di parlare forte ritornava a eccitarsi perché non era contenta perché l'uomo in realtà era il suo,fidanzatino.
+62-1_None-x#Si vede la stazione del treno, e tanta gente.
+62-2_None-x#C'è un uomo con un mazzo di fiori che cerca disperato la sua fidanzata.
+62-3_None-x#Vicino lui, c'è una coppia che si bacia appasionatamente e per terra ci sono i bagali...
+62-4_None-x#si vede che uno dei due deve prendere il treno.
+62-5_None-x#Dietro loro, su uno dei treni c'è una donna e anche un uomo che l'aiuta a scendere.
+62-6_None-x#In fondo, a sinistra ci sono tr persone che guardano in alto, forse l'orologio.
+62-7_None-x#Piu avanti c'è una signora seduta un po spaventata, magari anche un po arrabbiata perche un cane è passato di corsa mandando per area il tavolo dove lui mangiava, per terra c'è la botiglia e per aria i panini.
+62-8_None-x#Si vede anche la testa di un vecchio con barba e cappello e ne ha qualcosa in bocca
+62-9_None-x#Vicino al cestino ci sono dei bichieri e un giornale
+63-1_None-3#Il disegno mostre una serie di eventi, che succede ad una stazione.
+63-2_None-3#Al binario più vicino, vediamo una coppia che sta bacinando mente un giovane vestito in jean e capello ruba la valigia sua.
+63-3_None-3#A sinistra, vediamo una situazione con una donna.
+63-4_None-3#La sua tavola è caduta a causa di un canino, di cui nessuno ha controllo.
+63-5_None-3#La donna, chi stava per mangiare è veramente degustata al fatto che ha perso il suo pranzo.
+63-6_None-3#Il ladro della valigia si ferma perchè il cane gli ha fatto paura.
+63-7_None-3#I due uomini dietro di lui sono anche stupiti; infatti uno butta la sua scatola nell'aria con sorpresa.
+63-8_None-3#Si vede che la stazione è un po' sale.
+63-9_None-3#C'è un giornale di ieri, con gli informazione di ieri, è nesuno lo legge.
+63-10_None-3#C'è graffiti, lattine vidi, e vecchia pubblicità per vacanze all'estero.
+63-11_None-3#C'è un atmosfera veramente scuro.
+63-12_None-3#Un mecanico a destra della coppia, guarda bene il ladro, dappertutto, sarà timore della crima.
+64-1_de-3#È l'una alla stazione di Napoli - deve essere Napoli perchè è sporchissima.
+64-2_de-3#Accanto al meccanico chi vuole riparare qualcosa del treno, c'è una coppia che sta baciando mentre un ladro sta rubando la loro valigia.
+64-3_de-3#Nel fondo c'è un vecchio che sta guardano la situazione e non fa niente.
+64-4_de-3#Al tavolo siede una donna non vecchissima ma neanche giovane.
+64-5_de-3#Sta gridando perchè il suo cane è corso via e ha abbattuto il tavolo della sua padrona che adesso ha il cibo sulle ginocchia.
+64-6_de-3#Nello sfondo ci sono ancora dei passeggeri che stanno salendo su una treno e c'è altra gente che sta parlando, aspettando o guardando.
+65-1_de-3#Ieri al parco, il fratello minore di Leo stava leggendo il giornale quando è venuto un uomo con un tatuaggio sulla spalla che ha portato una ragazza la quale stava gridando.
+65-2_de-3#Anche se il fratello minore di Leo non sembra di essere così ma è molto coraggioso.
+65-3_de-3#Si arrabbiava molto ed è seguito loro.
+65-4_de-3#È fermato quel villano e ha liberato la ragazza.
+65-5_de-3#Ma invece di ringraziarlo per liberarsi, la ragazza diventava molto furiosa.
+65-6_de-3#Il fratellino di Leo non capiva perchè e così lei ha spiegato glielo.
+65-7_de-3#Sembrava che il fratello minore di Leo aveva mettere K.O. il suo ragazzo.
+66-1_de-5#Ieri al parco...
+66-2_de-5#Ieri al parco c'era un giovane ragazzo che stava su una panchina leggendo il giornale.
+66-3_de-5#Poi è passato un uomo grande e forte con un espressione arrabbiata che portava sulle spalle una donna.
+66-4_de-5#Sembra che lei sia scontenta e voglia che quell'uomo la lascia andare.
+66-5_de-5#Per quello il giovane,che stava leggendo il giornale sulla panchina, si alza e comincia a picchiare l'altro uomo che a prima vista sembrava molto più forte.
+66-6_de-5#Quest'ultimo finisce a terra e il ragazzo è orgoglioso di aver "salvato" la donna.
+66-7_de-5#Lei però è scioccata e guarda l'uomo con cui è arrivata prima.
+66-8_de-5#Si arrabbia e sgrida il giovane perchè l'altro è il suo patner, lo ama e non c'era nessun pericolo..
+67-1_de-5#In stazione
+67-2_de-5#La stazione dell'immagine è molto caotica.
+67-3_de-5#C'è tanta gente vicino ai binari una donna sta seduta a un tavolino.
+67-4_de-5#In primo piano vediamo un vecchietto con barba e berretto.
+67-5_de-5#Al centro c'è una persona vestita di nero con un'espressione arrabbiata.
+67-6_de-5#Si guarda intorno come se avesse rubato qualcosa e dovesse scappare.
+67-7_de-5#Inoltre si vede una coppia di amanti che si abbracciano e si baciano come se non si fossero visti da tanto tempo.
+67-8_de-5#In questa stazione ci sono anche dei tavolini che forse appartengono a qualche ristorante.
+67-9_de-5#Uno dei tavoli però è caduto, probabilmente l'ha fatto cadere il cane che gira liberamente e sembra essere scappato..
+68-1_de-5#Nella stazione alle 14 succedono tante cose.
+68-2_de-5#Nel primo piano si vede un uomo che porta un cappello e che guarda una coppia che si abbraccia.
+68-3_de-5#Le borse della coppia ci sono a terra e le due sono solo occupato con se stesso.
+68-4_de-5#Anche un altro uomo che passa per riparare il treno vede come la donna e suo ragazzo baciano.
+68-5_de-5#Ancora un altro uomo passa accanto della coppia con una valigia.
+68-6_de-5#Lui fa l'impressione di fuggire di qualcosa.
+68-7_de-5#Gli abiti sono neri e lui guarda cattivo, si trova nel centro di questa situazione anche perché lui ha colpita le valigie di una coppia che è appena arrivato.
+68-8_de-5#Una valigia sta ancora volendo e un'altra è caduta sulla tavola di una donna abbastanza vecchia.
+68-9_de-5#Mentre la donna è ancora seduta con le mani sul testo il suo cane corre via.
+68-10_de-5#Dietro si può vedere dei giovanili che guardano un treno che parte.
+68-11_de-5#Due altri treni sono arrivati e aspettano di poter patire di nuovo.
+68-12_de-5#La stazione non è in ordine perché a terra ci sono delle cose come per esempio un giornale..
+69-1_de-5#Ieri al parco Luigi stava leggendo un giornale.
+69-2_de-5#Aveva appena finito di leggere che un uomo cattivo ha rapito una donna nella stessa città quando un uomo abbastanza forte è passato con una donna sulle spalle davanti a lui.
+69-3_de-5#Quando Luigi ho visto questo pensava che quest'uomo vuole fare cose cattive con questa donna.
+69-4_de-5#Allora ha deciso di battere l'uomo per salvare la donna bionda.
+69-5_de-5#Dopo esser stata "salvata", la donna guardava compassionevole al uomo che c'era sulla terra e ha spiegato che non è stato un uomo pericoloso ma suo amante.
+69-6_de-5#La coppia aveva solo una piccola lite e adesso la donna era molto arrabbiata..
+70-1_de-1#Cosa sta succedendo in questa stazione?
+70-2_de-1#Ci sono molte cose che stanno succedendo nella stazione.
+70-3_de-1#Si può vedere tre treni e molte persone.
+70-4_de-1#Nel centro c'è un uomo che secondo me ha l'aspetto di un ladro perchè indossa vestiti neri e una berretta nera.
+70-5_de-1#Fianco di lui c'è una coppia che si sta dando un baccio.
+70-6_de-1#Il ladro sta rubando la valigia della coppia.
+70-7_de-1#Alla destra sta sedendo una donna con il suo cane ma la donna sta gridando perchè il cane sta correndo via.
+70-8_de-1#Davanti alla donna c'è un tavolo, sull'tavolo ci sono una bottiglia, un bicchiere, una tazza con un pacchette di zucchero e un piatto.
+70-9_de-1#In primo piano si può vedere la testa di un uomo con la berretta grande e nera, una barba bianca e una sigaretta.
+70-10_de-1#Sull'suolo c'è un giornale..
+71-1_de-1#Alla stazione!
+71-2_de-1#È l'una ed alla stazione ci sono molte persone.
+71-3_de-1#Si vede tre treni.
+71-4_de-1#Al mezzo treno ci sono due persone.
+71-5_de-1#Uno delle due sceglie con le sue valigie.
+71-6_de-1#L'altra fa segno a le.
+71-7_de-1#A sinistra si vede una donna seduta che chiama il suo cane, perchè lo è corso via ed inoltre il cane ha fatto un casino.
+71-8_de-1#Accanto a le c'è una coppia.
+71-9_de-1#E, l'uomo della coppia porta troppo; e così lui lascia cadere una valigia ed un pacchetto.
+71-10_de-1#Vicino a gli c'è un uomo chi sembra cattivo perchè lui porta di vestiti scuri.
+71-11_de-1#Acconto a gli, a destra c'è un'altra coppia.
+71-12_de-1#Queste persone stanno abbracciando e baciando.
+71-13_de-1#Lo sembra che la coppia si accomiata..
+72-1_de-1#Ieri al parco Un uomo è seduto sulla panchina ed ha letto un giornale.
+72-2_de-1#Quest'uomo si è chiamato Pietro; è stato giovane, sportivo con capelli scuri ed ha portato degli occhiali.
+72-3_de-1#Subito è venuto un uomo alto e molto sportivo con i tatuaggi.
+72-4_de-1#Lo è sembrato come un rapitore perchè lui ha messo in spalla una donna molto bella.
+72-5_de-1#Questa ha chiamato!
+72-6_de-1#Immediato, Pietro ha pensato che c'è un sequestro della questa donna.
+72-7_de-1#Lui ha deciso che aiuta a le.
+72-8_de-1#Pietro ha abbatto l'uomo forte; ed è stato fiero di sè!
+72-9_de-1#Ma subito la donna ha cominciato a lagnare.
+72-10_de-1#Prima, Pietro non ha capito, però poi lui ha notato che quest'uomo è statoli ragazzo della questa donna.
+72-11_de-1#Tutt'e due solo si sono divertiti!
+73-1_de-3#la stazione
+73-2_de-3#Sono le due in questo momento in questa stazione, se l'orologio funziona in modo corretto.
+73-3_de-3#Non è precisamente ciaro, che cosa è successo, ma una scatola con le scarpe è stata scagliata.
+73-4_de-3#Un cane corre via, forse lui ha fatto caduto uno dei tre tavoli e quindi anche la scatola.
+73-5_de-3#Ci sono 22 persone, che fanno le cose diversi.
+73-6_de-3#Per esempio un uomo chi sembra molto strano e porta i vestiti neri.
+73-7_de-3#Forse è un bandito.
+73-8_de-3#Ci sono anche un elettricista, due persone, che si baciano, probabilmente perchè non si hanno visto da un tempo lungo.
+73-9_de-3#Ci sono anche dei tre treni.
+74-1_de-3#al parco
+74-2_de-3#Iieri al parco un uomo sede, come sempre al questo tempo, sulla banca.
+74-3_de-3#È la banca preferita dell'uomo.
+74-4_de-3#Come sempre ha deciso di rilassare un pò in natura e leggere il giornale.
+74-5_de-3#Quando sta leggendo il giornale un uomo passa la banca, portando una donna sulla spalla.
+74-6_de-3#La donna ha gridato e perciò l'uomo che ha letto il giornale, ha pensato che la donna ha bisogno di aiuta.
+74-7_de-3#Allora lui ha voluto aiutarla, perchè è un uomo gentile.
+74-8_de-3#Si è alzato e ha sbrigato l'altro uomo sul terra.
+74-9_de-3#Poi l 'uomo non ha capito niente, perchè la donna diventa molto arrabbiata..
+75-1_en-3#La scena è alla stazione.
+75-2_en-3#Ci sono molti gente.
+75-3_en-3#È alle dodici.
+75-4_en-3#C'è una tavola è una donna sedersi vicino.
+75-5_en-3#le cose sulla tavola sono adesso sul pavimento, probabilmente a causa del piccolo cane.
+75-6_en-3#C'è un confusione.
+75-7_en-3#Al centro c'è un uomo sembra strano, vestirsi in cose neri.
+75-8_en-3#Lui sta guardando a qualcosa non in scena.
+75-9_en-3#C'è un altro uomo sta guardando nello stesso direzione.
+75-10_en-3#Tutt è due hanno capelli.
+75-11_en-3#C'è una copia stanno bacciando e non vedono nulla del confusione.
+75-12_en-3#Un'latra copia vedono la confusione e sembra arrabiata.
+75-13_en-3#Un'uomo chi forse mantenere i treni sta guardando.
+75-14_en-3#Ci sono 3 treni visibile alla stazione ma non lo so se loro in partinenza o arrivi.
+75-15_en-3#Il cane va in direzione che le due uomini strane stanno guardando.
+75-16_en-3#Quindi forse c'è un'altra persona li.
+75-17_en-3#Questo non è chiaro..
+76-1_en-4#Ieri al parco mentre leggevo la Gazzetta dello sport ho visto una litiga tra una ragazza e il suo fidanzato.
+76-2_en-4#Questa litiga è diventata violenta, e così ho intervento.
+76-3_en-4#Avevo piacchiato il ragazzo, è caduto sul pavimento; ero sicuro che ho fatto bene e salvato la ragazza.
+76-4_en-4#Purtroppo era incazzata e mi sgridava " non toccare il mio fidanzato " diceva " ti ucciderò"
+76-5_en-4#Dunque sono scappato veloce, che pazza!
+77-1_en-4#In centro c'è un uomo chi indossa tutti in nero.
+77-2_en-4#davanti a lui un cane sta correndo e ha appena tirato la tavola di una donna.
+77-3_en-4#tutte le sue cose rimano sul pavimento, e il cane ha cansato un uomo, indietro dal primo uomo, a predere la sua scattola di scarpe in aria un meccanico guardando gli amorosi che si sta bacciando.
+77-4_en-4#al fronte dell'immagine c'è un uomo con una barba bianca ed un cappello caldo.
+77-5_en-4#Porta una sigaretta in bocca e guarda quell'uomo di nero.
+77-6_en-4#il cane ha fatto la povera donna sporca del cafè tirato.
+77-7_en-4#e lui sta correndo per scapare la donna e leggere il giornale sul pavimento davanti a lui..
+78-1_en-4#Ieri al parco.......
+78-2_en-4#Francesco e la sua ragazza litigavano in parco perchè Francesco l'ha visto baciare un altro ragazzo e lui era una persona molto geloso.
+78-3_en-4#Michele vedevo Francesco mentre stava portando la sua ragazza sulla spalle.
+78-4_en-4#la ragazza uralava e Michele era un uomo molto coraggioso.
+78-5_en-4#Miche ha attaccato Francesco per salvare la ragazza però la ragazza non era contenta.
+78-6_en-4#Invece la ragazza era molta arrabiata con Michele perchè nonostante il litigio Lei era ancora innamorata con Francesco
+79-1_en-4#Noi sono stati alle due nella stazione centrale.
+79-2_en-4#Una vecchia stava mangiando pranzo quando il suo piccolo cane ha scappato da sotto la tavolina.
+79-3_en-4#la tavola cadeva.
+79-4_en-4#Una coppia stava facendo salute perche l'uomo andrebbe via.
+79-5_en-4#Mentre la coppia stava baciando un ladro è arrivato pigliava la bagiglia del'uomo.
+79-6_en-4#La coppia non hanno visto niente.
+79-7_en-4#però il ladro stava avvicinando la piccola cane e non guardava alla terra.
+79-8_en-4#Un vecchio ha visto il ladro da lontana
+79-9_en-4#Il ladro e il vecchio sono vestiti lo stesso forse stanno facendo la rapina insieme.
+79-10_en-4#Al fundo un operaio ha visto il ladro, lui si confondava..
+80-1_en-5#Sono le due di pomeriggio a una stazione ferroviaria.
+80-2_en-5#Un uomo che sta per partire è in un'abbraccio con una donna.
+80-3_en-5#Deve avere gli occhi chiusi perche non vede il ladro rubando la sua valigia.
+80-4_en-5#C'è un cane che corre nel mezzo della zona dove c'è un cafe.
+80-5_en-5#Sembra che il cane abbia sorpreso una donna che era seduta a un tavolo così tanto che lei ha rovesciato la tavola e tutto è caduto in terra.
+80-6_en-5#C'è un'uomo che porta delle scatole e sembra che anche lui sia un pò sorpreso perchè una delle scatole sta per cadere..
+81-1_en-2#L'immagine è a una stazione ferrovia alle due del pomeriggio..
+81-2_en-2#Mi sembra che un cane abbia rovesciato una tavola, tutto è capovolto e una donna che era stata seduta alla tavola ha un'espressione d'orrore e tappa le orecchie a causa del remore.
+81-3_en-2#Forse un treno è appena arrivato, un uomo vestito di nero sta tirando in fretta la sua valigia.
+81-4_en-2#Vicino di lui un alto giovanotto con un lungo impermeabile sta baciando una signorina bionda che porta pantaloni e stivali neri; un mecchanico con i suoi attrezzi li riguardo, forse trovi la ragazza attraenta.
+81-5_en-2#La primo piano si può vedere un vecchio con un capello di lana che fuma..
+82-1_en-4#Ieri al parco mentre un uomo leggeva il giornale, una bella donna si era rapinato da un uomo con grandi muscoli.
+82-2_en-4#L'uomo con il giornale provò di aiutarla.
+82-3_en-4#Con lo sguardo di determinazione si correva davanti il rapinatore, e li buttò sulla testa.
+82-4_en-4#La donna diventa libera e l'uomo cade al pavimento.
+82-5_en-4#La donna è molto arrabiata al'uomo che ha salveggiala.
+82-6_en-4#Lei si è innamorata del uomo con i muscoli..
+83-1_en-4#Molte cose sta succedendo alla stazione.
+83-2_en-4#L'ora è alle due al pomeriggio.
+83-3_en-4#Allo sfondo una coppia partono al treno, e un gruppo da gente aspettano per un amico.
+83-4_en-4#Poi mentre una giovane coppia abbracciarsi, un ladro ropina la sua valigia.
+83-5_en-4#Una donna vede il ladro ma non fa niente, e il suo marito studia una carta.
+83-6_en-4#Un cane che ha scappato dal suo padrone ha creatato il caos.
+83-7_en-4#Corre attraverso la banchina, e mette una tavola della ristorante sul pavimento.
+83-8_en-4#La donna che seda alla tavola è schioccato perchè il suo cibo e le bevande sono rovinato.
+83-9_en-4#La stazione è sporca - ci sono i rifiuti sul pavimento, e un vecchio uomo che porta un capello di lana guarda la scena..
+84-1_de-4#C'è un ladro che ha rubato la borsa ad una donna che stava seduta a un tavolo mangiando.
+84-2_de-4#Il ladro sta correndo via e ha fatto saltare in aria un cestino di cibo.
+84-3_de-4#C'è un uomo vecchio che sta fumando.
+84-4_de-4#Il cane della donna che stava mangiando e poi fu attachata dal ladro se ne sta scappando.
+84-5_de-4#Ci sono due inamorati che si stanno salutando perche uno dei due se ne sta per andando nel treno..
+85-1_en-4#Lucia stava al parco con il suo nuovo ragazzo nel pomeriggio.
+85-2_en-4#Stavano leggendo tranquillamente quando il ex-ragazzo di Lucia venì parlargi, era arabbiatissimo.
+85-3_en-4#Invece di parlare un modo normale, prendò Lucia e la portò via.
+85-4_en-4#Giorgio, il nuovo, si alzò e cominciò a sbattere con l'altro.
+85-5_en-4#Dopo gli aver fatto male, Giorgio era contento, ma Lucia era preoccupata.
+85-6_en-4#Alla fine, Lucia fu veramente arabbiata, e disse a Giorgio 'Perchè gli hai fatto male?!'
+85-7_en-4#'Perchè ha provato prenderti via e forse farti male! Ti amo, Lucia, è per questo che l'ho fatto. Mi scusa...', disse Giorgio.
+85-8_en-4#Lucia, malgrado il fatto che fosse arabbiata, si sentiva cadere innamorata con Giorgio...
+86-1_fr-5#Ieri al parco, ho visto un uomo portare una donna senza che quella cui sia daccorda.
+86-2_fr-5#Allo stesso momento, un'uomo stava leggendo un giornale su un banco.
+86-3_fr-5#Allora, vedendo quello che stava succedendo, l'uomo si è levato e ha portato secorso alla donna.
+86-4_fr-5#Tra i due uomini, è il cativo che si è ritrovato faccia contro terra.
+86-5_fr-5#Soddisfatto di lui, il gentile uomo ha sorriso alla donna che, contro tutto quello che potevo pensare, ha avuto una reazione molto diversa da quella che avrebbe avere.
+86-6_fr-5#Infatti, invece di ringraziare il suo salvatore, la donna si è arrabiata contro lui perchè aveva fatto male al suo fidanzato..
+87-1_fr-5#Ci sono le due del pomeriggio, siamo nella stazione.
+87-2_fr-5#Al primo piano, c'è un'uomo che sembra guardare la scena.
+87-3_fr-5#A sinistra, un cane è appena passato sotto la tavola di una donna, bosculando tutto quello che era su.
+87-4_fr-5#A destra, al lontano, un'uomo aiuda una donna per mettere la sua valigia nel treno.
+87-5_fr-5#Più presto, un reparatore guarda gelosiamente una coppia imbrassarsi mentre un ladro ruba una borsa..
+88-1_en-4#Ieri al parco quando leggevo il giornale, un uomo grande e muscoli litigando con una donna.
+88-2_en-4#Pensavo che non è un argumento serioso, ma a questo momento l'uomo è diventato violente.
+88-3_en-4#Ho saputo che ho dovuto aiutarla.
+88-4_en-4#Ho deciso di distrare l'uomo grande.
+88-5_en-4#mi sono alzato e ho comminciato fare le gesture aggressive.
+88-6_en-4#L'uomo ha mi guardato e no ho saputo come ma lui è caduto e la donne non è contenta.
+88-7_en-4#In fatti lei si è in amorati con l'uomo.
+88-8_en-4#Lei è diventato aggressiva con me!
+88-9_en-4#diceva che l'uomo è suo fiancè.
+88-10_en-4#e lei ha fatto un gesture aggressivo e ho detto "scusame ho pensato che...
+89-1_en-4#Ieri al parco stavo sedendo, leggendo il giornale, e non mi sono preoccupato di niente, quando una cosa stranissima è successa.
+89-2_en-4#Un uomo, del tipo che ci si fa paura con i tattuaggi e le braccie enormi, passava davanti a me, portando una donna bella bionda.
+89-3_en-4#Lei mi sembrava spaventata, e in questo momento ho deciso di intervenire.
+89-4_en-4#Mi sono alzato, pronto per aiutare questa donna.
+89-5_en-4#Sono riuscito facilmente a picchiare questo mostro alla terra, ed ero molto soddisfatto per un attimo, ma poi ho visto la faccia della donna che mi sembrava ancora spaventata, ma questa volta fosse triste, e preoccupata e poi questa angoscia diventa la rabia.
+89-6_en-4#Ero completamente confuso quando lei me ha accusato di ferire il suo fidanzato..
+90-1_en-4#Nella stazione pricipale un uomo che era scappato da una prigione cercava un posto per nascondersi.
+90-2_en-4#Inizialmente ha provato a rimanere sotto un tavolo, ma una donna ci si è seduta per mangiare qualcosa prima di partire sul treno.
+90-3_en-4#La donna ha sentito qualcosa sotto il tavolo con i piedi e poi è emerso l'uomo, faceva cadere tutto dal tavolo, le scattole della donna volavano in aria e il suo cane se ne andava da paura.
+90-4_en-4#La donna è alcuni persone si sono girati a vedere l'uomo che stava cercando un altro posto per nascondersi prima del arrivo della polizia..
+91-1_en-4#Un giorno ero al parco perchè faceva buon tempo.
+91-2_en-4#Mentre che leggevo il giornale, ho visto una coppia che litigava.
+91-3_en-4#L'uomo è diventato molto violento e la donna era triste.
+91-4_en-4#Ho deciso di aiutare la donna, mi sono alzato e ho provato di risolvere la bagare.
+91-5_en-4#Purtroppo, la donna non voleva il mio aiuto e gridava che ero un uomo stupido.
+91-6_en-4#Che grazie!
+91-7_en-4#Non ho mai capito la relazione fra i due sessi e forse non capirei mai!
+91-8_en-4#L'uomo era nerido ma non era arrabiato.
+91-9_en-4#in fatti era tranquillo.
+91-10_en-4#Era l'ultima volta che assisterebbe una donna nel parco..
+92-1_en-5#Ieri al parco mentre un uomo si era seduto e leggeva il giornale, c'è stato un uomo che litigava con una donna, e ha preso la donna per portarla via.
+92-2_en-5#A quel punto, il uomo che leggeva si è alzato (furioso della situazione che aveva appena visto), e ha dato un grande pugno alla testa del uomo.
+92-3_en-5#Il uomo cattivo se nè andato a dormire!
+92-4_en-5#La donna (invece di essere felice), si è messa a gridare del fatto che suo fidanzato stava sulla terra inconscio!
+92-5_en-5#Il uomo era confuso, ma la donna ha spiegato che quel uomo è il fidanzato, a quel punto il uomo ha risposto: 'La prossima volta non aiuto nessuno!'
+93-1_en-4#I quatro desegni comprendano tre, due uomini e anche una ragazza.
+93-2_en-4#L'uomo che sembra più forte, grande e cattivo porta la ragazza sulle spalle e cerca di rapirla e se ne va con lei.
+93-3_en-4#All'improviso, l'latro uomo che all'inzio sembrava meno forte e grande mette in mostra i suoi muscoli quest'uomo porta occhiali e una maglietta nera..
+93-4_en-4#A quanto sembri, l'uomo dei occhilli combatte l'uomo che sembrava più forte e quell'uomo finisce per strada.
+93-5_en-4#La ragazza urla e sembra schiocatta e che abbià tanto paura;
+93-6_en-4#però, dopo...lei mette in mostra i suoi muscoli e si rende conto che anche lei è forte e corragiosa!
+93-7_en-4#In effetti lei poteva combattere l'uomo da sola e ormai sembra un 'po arrabbiata che non potesse defendersi da sola.
+93-8_en-4#Comunque, c'è un cuorchino sopra la sua testa, forse vuole dire che loro si innamarano...non lo so.!
+94-1_en-1#Luigi e Maria hanno incontrato un minuto fa, ma l'instanto che si hanno visto, si innamorano.
+94-2_en-1#Loro si bacciano, e non vedono il rubato che la sua porsa!
+94-3_en-1#Un cane lo ha visto, e lui corre volore provare rotornare la borsa a Maria.
+94-4_en-1#Ma, ora il cane vede a basura, e lui piace molto la basura.
+94-5_en-1#Allora, il cane domentica la borsa e mangia molta basura.
+94-6_en-1#una donna che ha fatto shopping ieri, oggi decide che non vuole queste scarpe e vestiti.
+94-7_en-1#Allora, queste cose vanno in aria e poi nel piano.
+94-8_en-1#la Donna al tavolo dice,"Oh mio dio!"perche lei ha bisogno delle scarpe e vestiti nuove."È un miracolo!"
+94-9_en-1#E tutti vivono molto allegri, specifamente il rubato..
+94-10_en-1#ALLA STAZIONE
+95-1_en-x#LA STAZIONE
+95-2_en-x#altra giornata quando sono uscito la stazione
+95-3_en-x#C'èra tre persone hanno visto allorologio.
+95-4_en-x#Penso che siano molto confusione perchè litigano di iltreno partiti due uomi uscvano il treno con una valigia.
+95-5_en-x#Alla ristrant di stazione c'era molti persone Con molti problemi.
+95-6_en-x#Una donna a una tavola ha avuto un cane e il cane è corso da il tavo
+95-7_en-x#Quando li Correva, la tavola è caduto e tutte le cose sul tavola sono andati la.
+95-8_en-x#Un contini di le scarpe e i calzini è caduto sul un uomo e una donna passiggavano insieme.
+95-9_en-x#Un uomo fumava, ha visto tutti.
+95-10_en-x#due persone baccava per molti tempi.
+95-11_en-x#Un uomo passiggava e lui era un po creepy..
+96-1_en-x#IL DISEGNO DELLA STAZIONE
+96-2_en-x#In la stazione dell'autobus c'era un disastre.
+96-3_en-x#Un uomo corra e guarda per un altro uomo.
+96-4_en-x#i caffè della nonna ha fatto una macchia sul cappotto e sulla tavola.
+96-5_en-x#il cane corra perche ha volgia di mangiare tutti que posa.
+96-6_en-x#Il uomo que ha metto il cappello fuma.
+96-7_en-x#La ragazza que è fitanciato con il ragazzo ha arrivato e da un baccio.
+96-8_en-x#Sono le due del pomeriggio.
+96-9_en-x#L'autobus que ha arrivato c'è multi valiggi.
+96-10_en-x#Il uomo auita la ragazza con il valigge.
+96-11_en-x#Il uomo con i capelli biondi va a gustare l'autobus..
+97-1_en-x#LA STAZIONE
+97-2_en-x#Questa è una stazione loca!
+97-3_en-x#È alle tredici, è ci sono molte persone qui.
+97-4_en-x#Due ragazzi, una donna ed un uomo si abbraccerano, perchè stanno partendo.
+97-5_en-x#L'uomo indossa una copetto e la donna indossa una giacca e gli stivali.
+97-6_en-x#Anche, c'è un uomo chi indossa tutti i vestiti neri ed appare male.
+97-7_en-x#C'è una valiga peina di scarpe che sta cadendo dal celo.
+97-8_en-x#Sulla terra, ci sono le piatte, le bicchieri, e le bottiglie roti.
+97-9_en-x#Anche una vaglig aperta piena di carne.
+97-10_en-x#C'è un tavolo con una macia grandissima.
+97-11_en-x#C'è una donna ancienna chi porta una borsa ed indossa un cappello, un copetto, un'abito, e le scarpe.
+97-12_en-x#Me sembre che lei non è felice.
+97-13_en-x#C'è un cane libero che sta correndo.
+97-14_en-x#Ugnuno deve pulire questa stazione!
+97-15_en-x#C'è un uomo ancienno chi sta mirando tutti..
+98-1_en-x#LA STAZIONE
+98-2_en-x#Il stazione dell'autobus è dove passa tutti della vita.
+98-3_en-x#Viaggi amore,paura,nonni,carne e cane - si puo vedere tutto il mondo in uno solo stazione.
+98-4_en-x#Guarda: Un ragazzo e una ragazza bacciano come che sono enamorata, ma solo è un spectaculo per prendere i il amore vero di questo ragazzo chi baccia appassionatamente.
+98-5_en-x#Guarda: La donna indossa in una gonna di fiori sogna di sua sorella parapallegica e sua mama povera mentre parte con un signore chi dice che lei puo essere una nuova Amici per la programma di TV.
+98-6_en-x#Guarda: Una nonna fa sua exercizi di yoga, una cane corre con libertà, ci sono botigli di vino e piati con panini.
+98-7_en-x#Si. certo. Il stazione è dove si trova la vita,davvero..
+99-1_en-1#IL DISEGNO DELLA STAZIONE
+99-2_en-1#La stazione è piena di gente ed azione.
+99-3_en-1#Una donna ha rotto un tavolo e ha perduto il suo pranzo.
+99-4_en-1#C'è ancora una macchia grande sulla tovaglia.
+99-5_en-1#Un cane ha escapato ed è corriendo nella stazione.
+99-6_en-1#Forse il cane ha rotto il tavolo!
+99-7_en-1#C'è un tavolo con un pasto abbandonato sullo,ma la persona che manngiav è introvabile.
+99-8_en-1#C'è un criminale nella scena che guard le gente.
+99-9_en-1#È speranzo trovare una persona oblivia.
+99-10_en-1#Un altro uomo, che si veste un cappello nero,fum una sigaretta.
+99-11_en-1#Lui posse essere un'accomplice del criminale.
+99-12_en-1#Una coppia non guarda la azione perche loro baciano passionamente.
+99-13_en-1#E tutta questa azione ha successo prima della una del pomeriggio!
+99-14_en-1#Che un giorno caotico!
+100-1_en-1#Alla stazione, un ragazzo bacia la sua ragazza perchè lei va a Siena per una vacanze.
+100-2_en-1#Al ristornate, il tavolo di una donna è roto, e le sue cose sono sotto il tavolo.
+100-3_en-1#Mentre lei urlava, il suo cane andava trovava la cena.
+100-4_en-1#C'è un uomo chi fuma e guarda tutti i personi.
+100-5_en-1#Un autobus è roto, ed anche la stazione ha bisogno pulirsi.
+100-6_en-1#Non è una stanza bella.
+100-7_en-1#Prima l'autobus va, molti personi mangiano il pranzo al un ristorante americano.
+100-8_en-1#Non è buono, ma la gente hanno bisogno mangiare prima vanno.
+100-9_en-1#Il ristorante vende i panini, l'insalata, e la pizza.
+100-10_en-1#Questa è una stazione pazza!!
+101-1_en-1#L'autobus arriva alla stazione.
+101-2_en-1#L'uomo con la giacca nera uscito l'autobus.
+101-3_en-1#Lui è male!
+101-4_en-1#Lui ha corruto e ha visto per i soldi.
+101-5_en-1#La donna sulla sedia ha paura perchè il tavolo è nel piso.
+101-6_en-1#I carni, il vino e i piati sono nel piso.
+101-7_en-1#Il cane ha corruto
+101-8_en-1#L'uomo con il cappello nero ha fumato.
+101-9_en-1#Mentre l'uomo con la giacca nera vedeva per i soldi,una donna con la vialage ha camminato.
+101-10_en-1#C'era un giornale alle piso..
+101-11_en-1#Nel tavolo, è stato vino,una bichiere, un piato, un cafè, un forchetta, e un coltello.
+101-12_en-1#C'erano quattro borse nella stazione.
+101-13_en-1#L'uomo e la donna abbiamo viaggato.
+101-14_en-1#Il tavolo ha volato!
+102-1_en-1#Su questa pagina, ci sono molte persone pazze.
+102-2_en-1#Lei mangiava la sua colazione quando un cane ha guastato la tavola.
+102-3_en-1#Quindi, ha perso la pasta, lei, e adesso è molto arrabiata, e urla!
+102-4_en-1#Questo ragazzo ha visto tutto e non sa, che fare.
+102-5_en-1#Anche pensa lui che la donna è bellisma e le vuoleva avvicinare quando questo è successo; adesso lei la piace abbraciarsi?
+102-6_en-1#Forse la piace essere così?
+102-7_en-1#Allora, c'è un problema.
+102-8_en-1#Lui è un solo ragazzo e non vorrebbe essere contento ognuno.
+102-9_en-1#Forse fermà il ragazzo che indossa nera (che sciccaso,no?)..
+103-1_en-1#Ci sono le persone.
+103-2_en-1#Il uomo ha un cappello di maglia, una giacca, e una barba.
+103-3_en-1#Il altro uomo che indossa i vestiti neri ha un cappello di maglia,una giacca, i pantaloni, e le scarpe.
+103-4_en-1#Lui ha una valigia anche.
+103-5_en-1#Ci sono venti-uno persone che sono nel stazione dei treni.
+103-6_en-1#Ci sono quattro valigie.
+103-7_en-1#Le ore sono due (o quattordici).
+103-8_en-1#Nella cassa aperta ci sono le scarpe..
+103-9_en-1#Sul tavXXX ci sono il piatto,, una bottiglia, una forchetta, un coltello, una coppa, e il cibo.
+103-10_en-1#Ci sono una donna e un uomo iXXX
+103-11_en-1#La donna ha i stivali, i pantaloni, e una giacca.
+103-12_en-1#Il uomo indossa i panataloni, le scarpe, il cappotto, e ha i capelli marroni.
+103-13_en-1#La dXXX ha i capelli bionXX
+103-14_en-1#Sulla terra, ci le coppe e i piaXXX rotti.
+103-15_en-1#Il ceXXX è partito della donna mentre la gente vedeva.
+103-16_en-1#Qualche persXXX sono usciti stazione mentXX la donna e il uomo baccXXX
+103-17_en-1#La donna viecXX mangiava guXXX il suo cane è partito.
+104-1_en-2#Ieri al parco.
+104-2_en-2#Luigi leggeva il giornale.
+104-3_en-2#Improvvisamente, si e sentito la voce della sua amica.
+104-4_en-2#Lei si chiama Principessa.
+104-5_en-2#Messo mi giu! Messo mi giu per favore!
+104-6_en-2#Shh. Non. Desidero che tu vieni con mi.
+104-7_en-2#Ma io non volgio.
+104-8_en-2#A questo moment Luigi ula... Hei, tu. Messi la ragazza.
+104-9_en-2#Perche!?
+104-10_en-2#Perche io lo dico
+104-11_en-2#hahaha...no.
+104-12_en-2#Vada via o li danneggerò.
+104-13_en-2#Allora, Luigi dia i punzoni al ragazzo.
+104-14_en-2#Ma la ragazza ha urlato...Lui e...lui e...il mio fratello...
+104-15_en-2#Oh scusa Principessa
+104-16_en-2#Non mai desidero essere la tua amica.
+104-17_en-2#Ma perche...io ti amo! Io...
+104-18_en-2#Io ho un altro ragazzo.
+104-19_en-2#Chi è? Questo ragazzo?
+105-1_en-2#ieri al parco cera una ragazza giovane stava sedendosi su un banco con il suo fratello quando un uomo forte alto è venuto selezionarlo in su sopra il suo braccio.
+105-2_en-2#Ha finto mettere in su una lotta con l'uomo come il suo fratello sul banco ha visto che cosa stava accadendo.
+105-3_en-2#Si è alzato per aiutarlo ha preso alle sue sorelle la mano ed allora ha spinto l'uomo giù la sua sorella lo ha spinto e che gli ha chiesto che perchè ha fatto che ha pensato l'uomo era molto handsome ed ha desiderato andare con lui in una data.
+106-1_en-2#Al parco
+106-2_en-2#Ieri al parco mentre leggevo il giornale, ho visto un uomo portare sulla spalla una ragazza, che gridava e voleva scappare.
+106-3_en-2#Ho deciso di aiutarla.
+106-4_en-2#Li ho seguiti e quando sono arrivato dietro a loro ho detto a l'uomo di lasciare la ragazza.
+106-5_en-2#Lui non volevo farlo e mi ha detto di andare via.
+106-6_en-2#L'ho battuto e lui rimasto sul pavimento perche si sentiva male.
+106-7_en-2#Ero molto contento perche ho salvato la povera ragazza dal pericolo.
+106-8_en-2#Ma lei non era così contenta.
+106-9_en-2#Mi ha detto che non ho capito bene quello che ho visto.
+106-10_en-2#L'uomo che ho battuto era il suo ragazzo e loro erano una coppia felice.
+107-1_en-2#Ieri al parco un ragazzo magro con occhiali di vista si sedeva solo sul una panchina e leggeva un giornale quando ha visto un grande uomo forte.
+107-2_en-2#L'uomo appariva essere arrabiato e portava una bella donna sulla sua spalla.
+107-3_en-2#La donna assomigliava a aveva paura.
+107-4_en-2#Il ragazzo magro ha deciso salvarla così si è rimboccato le sue maniche e ho dato un pugno al uomo!
+107-5_en-2#Il ragazza pensava che la donna era grata ma era furioso!
+107-6_en-2#Gli diceva rabbiosamente che quell'uomo era il suo ragazzo.
+108-1_en-2#Ieri al parco, Giovanni era seduto sulla panchina e c'era una bella signorina, si chiamava Margherita.
+108-2_en-2#Conosceva Margherita dalla scuola quando erano più giovani.
+108-3_en-2#Giovanni le ha chiesto, " Che si dice?"
+108-4_en-2#Margherita ha risposto, " Niente asperto il mio ragzzo, Antonio. Egli è andato qualche parte, non so dove ".
+108-5_en-2#Dice Margherita, " Certe volte non ha cervello ".
+108-6_en-2#Giovanni si è messo a ridere.
+108-7_en-2#Dopo un pò, Antonio ha trovato Margherita, che parlava con un altro uomo.
+108-8_en-2#Antonio era arrabbiato.
+108-9_en-2#Antonio è andato da Margherita l'ha presa sulla spalle e Margherita gridava, " Aiutatemi!
+108-10_en-2#Giovanni si è alzato e ha dato un bel pugno ad Antonio.
+108-11_en-2#Antonio è caduto a terra.
+108-12_en-2#Margherita era contenta e poi diceva a Giovanni, " Grazie!".
+108-13_en-2#È andata da Giovanni e gli ha dato un bacio sulle labbre e gli disse " Amore mio!"
+109-1_en-2#Un giorno nel parco l'uomo forte prende la bella donna contro e desiderava.
+109-2_en-2#lo spettatore guardava.
+109-3_en-2#lo spettatore si arrabia e voule aiutare la bella donna.
+109-4_en-2#lo spettatore anche molto forte e colpisce l'uomo forte.
+109-5_en-2#l'uomo forte cade e la bella donna e adesso preoccupata.
+109-6_en-2#la bella donna si arrabia con lo spettatore.
+110-1_en-2#Ieri al parco, siedevo su una panchina e leggevo il giornale.
+110-2_en-2#Faceva bel tempo e dimenticavo il pomeriggio tanquillo.
+110-3_en-2#Improvvisamente, ho sentito le grida di una donna.
+110-4_en-2#Ho cercato e ho visto un uomo chi portava una donna sulla sua spalla.
+110-5_en-2#L'uomo era grande e forte, e ha sembrato molto arrabiato.
+110-6_en-2#Magrado la sua grandezza, sapevo che avevo fare qualcosa.
+110-7_en-2#L'ho fermato e l'ho detto rimetterla in libertà.
+110-8_en-2#Ha diventato arrabiato e mi ha dato una spinta.
+110-9_en-2#L'ho dato un pugno ed è caduto.
+110-10_en-2#Ho sorriso alla donna ma ero sorpreso vedere che turbava.
+110-11_en-2#lei ha detto. Lui è il mio ragazzo. Avevamo avuto una discussione dell'amante. Faceva finta di arrabiare e mi ha preso Ho gridato giocare al gioco. Adesso ha fatto male al mio ragazzo! Vada!
+111-1_en-2#Ieri al parco Juliana parlava con Antonio, quando improvvisamente compaia un uomo alto ed forte ha preso Juliana con forza.
+111-2_en-2#Antonio come un buon amico di Juliana, si ha arrabiato con tutta quella situazione perche lui non caspiscava che aveva accaduto con quello uome ed Juliana.
+111-3_en-2#Allora Antonio è andato verso a quello sconosciuto uomo ed l'ha morso in su testa ed l'uomo ha ritenuto sul gorund.
+111-4_en-2#Juliana ho dito voi ragazzi BASTA!!.
+111-5_en-2#Juliana ha spiegato tutto.
+111-6_en-2#Antonio non ho avuto tempo di ti dicere che questo è mio nuovo ragazzo.
+111-7_en-2#Doppo quello compresso male si hanno conosciuto ed hanno chiesto scusa.
+111-8_en-2#Che peccatto!!
+112-1_en-2#Ieri al parco leggevo il giornale.
+112-2_en-2#Ho cercato perchè ho sentito un grido.
+112-3_en-2#Un uomo teneva una signorina sopra la sua spalla.
+112-4_en-2#È stato sconvolta.
+112-5_en-2#Ho camminato sopra aiutare.
+112-6_en-2#Ho schiaffegiato l'uomo ed è caduto.
+112-7_en-2#Ho guardato la donna ed era arrabiata con sono.
+112-8_en-2#Ha detto che tentava di la fermare da spendere di soldi e non la doleva..
+113-1_en-2#Ieri al parco, Giovanni si è seduto sulla panchina.
+113-2_en-2#Il giorno era sereno e voleva leggere il giornale.
+113-3_en-2#Improvvisamente era una confusione.
+113-4_en-2#Giovanni si è voltato.
+113-5_en-2#Lui ha visto un uomo muscoli chi portava una donna sulla spalla.
+113-6_en-2#La donna ha sembrato fare paura e urlava.
+113-7_en-2#Velocemente, Giovanni si è alzato in piedi e ha corso verso l'uomo.
+113-8_en-2#Faccia a faccia, Giovanni gli ha stordito.
+113-9_en-2#Prima, la donna era scioccata, ma poi sta diventare matto.
+113-10_en-2#Giovanni era sorpreso quando l'ha comminciata gli gridare.
+113-11_en-2#Lei ha detto che Giovanni deve non essere suoi affari.
+113-12_en-2#Povero Giovanni!
+113-13_en-2#È ritornato alla panchina ed si è seduto con un sospiro
+114-1_en-2#Ieri al parco Vito sta seduto e leggeva il giornale
+114-2_en-2#Ha visto un uomo che portava una ragazza sulla sua spalla.
+114-3_en-2#Vito ha pensato che la ragazza era pressa malvolentieri.
+114-4_en-2#Si è alzato con l'idea d'aiutarla.
+114-5_en-2#Lui è andato a aiutare la ragazza ma lei non ha voluto il suo aiuto.
+114-6_en-2#Dopo che Vito ha datto un colpo al'uomo, è caduto per terra.
+114-7_en-2#La ragazza si è arrabiata con lui.
+114-8_en-2#Lei ha detto che l'uomo era il suo fidenzato.
+114-9_en-2#Vito ha deciso che è meglio di lasiare le situazioni in pace
+115-1_fr-1#Ieri al parco ho vedo la mia amica che si disputa con il suo amico.
+115-2_fr-1#Il amico si chiama Paolo.
+115-3_fr-1#Un giovano ha credo che Paolo erà violente con la sua amica.
+115-4_fr-1#Il giovano ha voleto ayudare la mia amica e era violente con il suo amico.
+115-5_fr-1#La mia amica era in coleria porque si inquieta por il suo amico.
+115-6_fr-1#Il giovano non piensa che la mia amica era con il suo amico e si scusa.
+115-7_fr-1#Il giovano era meno forte che il amico di mia amica.
+115-8_fr-1#La situazione era comico.
+115-9_fr-1#La mia amica non andava al parco.
+116-1_de-5#Ieri al parco ho visto un uomo che stava leggendo il giornale su una panca.
+116-2_de-5#Poi un uomo forte è passato che portava una ragazza su una spalla.
+116-3_de-5#Lei gridava ma io non ero capace di dire se gridava di gioia o di paura.
+116-4_de-5#L'uomo sulla panca a levato la testa per un attimo e poi ha cominciato di correre per liberare la ragazza.
+116-5_de-5#Dopo aver picchiato l'altro si sentiva forte e aspettava che lei avesse la gratitudine per lui.
+116-6_de-5#Ma c'era una sorpresa perchÈ lei ha cominciato di piangere e dopo gridava con furore: " Hai fatto male al mio principe azzurro! Hai quasi ammazzato il mio fidanzato! L'avevo solamente chiesto di praticare la scena di teatro con me che dovrà fare domani sera nella prima di aperte " Il kidnapping della figlia del presidente ".
+117-1_de-5#Ieri al parco ho visto una situazione (scena) che sembrava molto strana a me.
+117-2_de-5#Un uomo atletico prese improvvisamente una donna che era seduta sulla banca e la portò via.
+117-3_de-5#Una donna gridò aiuta e voltò le braccia con forza..
+117-4_de-5#Un altro uomo che anche le era seduto sulla banca leggendo il giornale si alzò ad un tratto e diede un colpo all'atleta, che di ciò cadde per terra.
+117-5_de-5#In questo momento la donna che prima aveva gridato aiuto e che adesso era liberata si rivolse al liberatore e lo insultò (ingiuriò?) violentemente.
+117-6_de-5#Io non ho capito il motivo della sua eccitazione, ma forse stavano girando un film e nella scena dovrebbe essere ripetuta.
+118-1_de-5#Ieri al parco un giovanotto si trovava su una panchina leggendo un giornale.
+118-2_de-5#All'improvviso passò un uomo che sembrava essere molto forte, aveva un tatuaggio sul braccio.
+118-3_de-5#Ma sulle spalle portava una ragazza - bella e bionda -.
+118-4_de-5#La ragazza agitava le braccie e gridava ad alta voce.
+118-5_de-5#Allora il giovanotto guardò i due persone e si alzò per aiutare la ragazza.
+118-6_de-5#Si avvinc'ò del uomo e ligitò con lui.
+118-7_de-5#Come il giovanetto era molto forte e ha arribbiato vinse e l'uomo era sul pavimento senza moversi.
+118-8_de-5#Ma la ragazza? Che cosa fece?
+118-9_de-5#Si avvinciò del giovanotto, gridando: " Stupido, che cosa hai fatto con il mio ragazzo. Abbiamo scherzato e tu l'hai attaccato senza motivo. Ah! mio povero amore!!"
+118-10_de-5#Il giovanetto giurò di non aiutare mai nessuno.
+119-1_de-4#Ieri al parco...Paolo si aveva seduto sul banco per leggere il giornale.
+119-2_de-4#All'improvviso passò un uomo grandissimo con una faccia molta arrabbiata.
+119-3_de-4#Sulle sue spalle portò una ragazza che gridò a voce alta.
+119-4_de-4#Paolo pensò di sentire un " aiuto!" dalla bocca della ragazza.
+119-5_de-4#Così si alzò per salvarla heroicamente.
+119-6_de-4#Li seguì e con un colpo forte sulla sua testa fece cadere l'uomo pericoloso così che perse la coscienza.
+119-7_de-4#" Oh dio!" gridò la ragazza, " che hai fatto?! Hai battuto il mio fidanzato!"
+119-8_de-4#" Ma lui voleva rappirti, no?"
+119-9_de-4#" No, stavamo scherzando, scemo! Chiamerò l'ambulanza e anche la polizia finché possano arrestarti! Tu sei il criminale, non lui!"
+120-1_de-5#Ieri al parco sono andato come lo faccio al solito per passare la mia pausa e mangiare qualcosa per pranzo.
+120-2_de-5#Il tempo è stato bellissimo e il dio stavo leggendo il giornale quando quando all'improvviso sentì la voce d'una donna ed un uomo che parlavano dei loro problemi.
+120-3_de-5#Non volevo origliare ma non era possibile evitare essere testimonio d'un conflitto.
+120-4_de-5#Sembrava che la donna voleva lasciare il suo marito.
+120-5_de-5#Stavo già per andarmene quando passò la mia barca un uomo dall'aspetto molto forte e muscoloso.
+120-6_de-5#Portava sulla spalla una donna che gridava e sgambettava.
+120-7_de-5#Si trattava ovviamente di un atto molto violente contro questa povera donna.
+120-8_de-5#Chiaro che doveva essere salvata di questa bestia.
+120-9_de-5#Senza riflettere a lungo mettevo ko l'uomo che subito era sdraiato sulla terra (io faccio come sport karate!).
+120-10_de-5#La donna era ovviamente sciocchata, non sapeva cosa dire, come ringraziarmi.
+120-11_de-5#Questo almeno pensavo per un momento.
+120-12_de-5#Che equivoco - lei subito cominciava a gridare e quasi mi attaccava per aver colpito il suo marito, che lei amava tanto.
+120-13_de-5#Secondo lei non ci era pericoloso o violento.
+120-14_de-5#Alla fine sono stato io il capro espiatorio.
+120-15_de-5#Come sono strane le donne, non le posso capire.
+120-16_de-5#Che fortuno che sono celibe!
+121-1_de-5#Ieri al parco stavo seduto su una panchina, leggendo il giornale.
+121-2_de-5#In estate vado spesso al parco per leggere o per ascoltare musica perché il più gradevole stare fuori e conoscere della gente che rimanere a casa.
+121-3_de-5#Comunque, stavo leggendo il giornale quando è passato un tizio dall'aspetto molto pericoloso che sulle sue spalle portava una ragazza.
+121-4_de-5#Questa ragazza gesticulava e gridava talmente che io avevo l'impressione che il tipo volesse abusare di lei...
+121-5_de-5#Mi sono alzato, mi sono precipitato sul tizio e gli ho dato i pugni.
+121-6_de-5#Molto contento del mio coraggio, pensavo che la ragazza fosse molto grata e che si precipitasse su di me per darmi almeno un bacio...
+121-7_de-5#Sì, la ragazza si è precipitato su di me, ma non per darmi un bacio: avevo completamente malinteso la situazione.
+121-8_de-5#Il tizio non aveva l'intenzione di far male alla ragazza, ma era il suo amante.
+121-9_de-5#Avevano soltanto fatto un piccolo gioco, come lo fanno gli amorosi.
+122-1_de-3#Ieri al parco faceva bello e anche gli giovanni inamorati sono andati al aperto per fare passagere e gioccare.
+122-2_de-3#Un giovannotto stava servendo su una panchina leggendo una revista mentre passava un uomo pesante con i muscoli grossi portando sulla braccia und ragazza che gridava e si scuotava.
+122-3_de-3#Il giovanne sulla panchina i due ossaverò con uno sguardo da strano.
+122-4_de-3#Si prensò che debba auitare la ragazza con questo tipo brutto, saltò e slanciò il uomo muscolante sulla erba.
+122-5_de-3#La ragazza si peroccapò quanto vide il suo findanzato messo sulla terra con una venita alla bocca e con dolore così grande se non poteva alzarsi.
+122-6_de-3#Il giovannotto non capì e sentiva come genoroso.
+122-7_de-3#Dopo la ragazza questa si accorse, minaciò il giovannotte, che non ha capito il gioca dei due innamorati.
+123-1_de-3#Ieri al parco mi sono seduto su una banca perché era un bellissimo giorno.
+123-2_de-3#Non ho pensato di niente quando all'improvviso un tipaccio si è avvicinato.
+123-3_de-3#Un tipo molto muscoloso con un brutto tatoo e niente nel testo.
+123-4_de-3#E di più ha portato una bellissima donna che ha gridato di aiuto.
+123-5_de-3#Allora, sapete come sono io, coraggiosamente ho deciso di liberare la povera donna di questo macho.
+123-6_de-3#Allora sono corso a lui e con la mia cintura nera ho vinto sotto lui in meno di due minuti.
+123-7_de-3#Ma che cosa ha fatto la donna?
+123-8_de-3#Non ha pensato di graziarmi o forse anche bacciarmi non ha avuto l'altro da fare che lamentarsi che ho fatto male a suo marito.
+123-9_de-3#Chi capisce le donne!
+124-1_de-5#Amore
+124-2_de-5#Ieri al parco..., dove di solito faccio la mia pausa mi è successo una cosa strana.
+124-3_de-5#Stavo sedendo sul banco quando ho visto un tipo grosso, brutto con una faccia da fare paura chi portava una ragazza sulle spalle.
+124-4_de-5#Non sembro del tipo super- man, ma quando ho realizzato che succede un crimine a questa donna di capelli biondi mi sono sentito pieno d'energia e forza.
+124-5_de-5#Mi sono alzato e grazie al mio coraggio ho superato quest'uomo e sal vato la bella..
+124-6_de-5#E lei!?
+124-7_de-5#Invece di essere graziosa e felice, comincia a insultarmi.
+124-8_de-5#Prima non ho capito nulla ma finalmente mi ha spiegato che il ragazzo da cui io l'avevo salvato sarebbe il suo finanziato.
+125-1_de-x#Ieri al parco quando ero fuori con il mio cane Struppi, era successo qualcosa molto strano.
+125-2_de-x#Un signore sedeva su una panca di legno leggeva il giornale mentre sentiva una signora gridare.
+125-3_de-x#Alzò lo sguardo e vide un uomo molto muscoloso che portava sulla spalla una signora.
+125-4_de-x#Era lei che gridava.
+125-5_de-x#Il signore smesse a leggere il giornale si rivolta le maniche della camicia e seguìi le due persone.
+125-6_de-x#Quando arrivò uomo gli da un pugno in testa.
+125-7_de-x#Il uomo è caduto a terra e la signora era libbera.
+125-8_de-x#Però lei non era molto contenta di vedere il uomo a terra.
+125-9_de-x#Era così arrabbiata che voleva battere il signore che l'ha aveva aiutato.
+125-10_de-x#Il signore non capiva niente, aveva pensato di averla liberato.
+125-11_de-x#Ma lei gridava solo che quel'uomo era il suo fidanzato.
+125-12_de-x#Struppi e io eravamo così scioccato di che cosa era successo che siamo ritornati a casa velocemente..
+126-1_es-x#Il vechio uomo vede come una giovane coppia si è ritrovata e con pasione fanno un lungo bacio.
+126-2_es-x#Il vechio uomo stà emozionato perchè questa scena li ricorda la sua giovinezza.
+126-3_es-x#Il casino che c'è nella stazione non può disturbare la sua attenzione sulla coppia.
+126-4_es-x#In fatto, un attimo primo, un uomo correva per la stazione seguito da due poliziotti e hanno provocato un incidente con i tavoli del bar i quali sonno caduti per terra.
+126-5_es-x#Il forte rumore ha provocato la paura al cane, e alle altre personne che c'erano, ma, solo la coppia innamorata e il vecchio uomo che la guardava hanno rimasto tranquilli senza sappere che cosa passava nella stazione.
+127-1_es-x#Il cane della donna ha iniziato tutto.
+127-2_es-x#Ancora non ha un anno e li piace giocare con tutto ma, questa volta, ha fatto un casino.
+127-3_es-x#L'urlo della donna ha aspaventato alla coppia con le scatole, che hanno fatto cadere la tavola e tutto quello che aveva sopra.
+127-4_es-x#Se ne sono accorti gli inamorati?
+127-5_es-x#Credo di no perchè una settimana senza vedersi è molto...
+127-6_es-x#se non fosse perchè il treno non è riuscito a partire!
+127-7_es-x#Guarda indietro: c'è il meccanico!
+128-1_es-x#Stazione Central
+128-2_es-x#"Accidenti! Accidenti!" Urla la signora che aspettava il prossimo treno delle 2:30 per Milano. "Il mio Cane! Il mio cane!"
+128-3_es-x#- Subito un uomo che gli stava vicino ha iniziato a correre in dietro dello cane che aveva distrutto un tavolo dello ristorante.
+128-4_es-x#Allo stesso tempo di tutto questo vicino a un lavoratore vediamo un ultimo bacio, prima della partita.
+128-5_es-x#"Ciao bella buon viaggio!"
+129-1_es-x#Era un giorno che sembrava normale alla stazione centrale però c'era un rumore e una agitazione.
+129-2_es-x#Un ladro aveva apena scipato la borsa di uno dei pasegeri, mentre scapava ha versato un tavolo di una signora che prendeva tranquillamente un tè, Ha spaventato un canne, che come mì provava di scapare.
+129-3_es-x#In fine della storia è il ladro è riuscito a scapare perchè la polizia italiana è ignorante, non allenata è incapace, ma il più bello di tutto questo è che una copia che aspettava il treno non si ha accorta di quello che sucedeva, avevano una preocupazione maggiore che era di essere felice dal inizio al fine di loro vacanza.
+130-1_es-x#Non se vede bene di dove esci il cane, in somma la scena centrale del bozzeto è un autentico casino perchè ci sono molti personaggio che non se sa che fanno veramente.
+130-2_es-x#Si devono disegnare un altra volta le valighe chi cadonno affinchè potessimo sapere perchè c'è tanta alterazione e nervosismo.
+130-3_es-x#Secondo me sopratutto l'uomo che è in mezzo della stazione di treno è molto violento e non se sa perchè.
+130-4_es-x#Invece la coppia che si bacia non sembra rendersi conto di niente di quello che succede intorno a loro.
+130-5_es-x#In qualche modo l'amore gli ha accecato.
+131-1_es-x#Secondo me questo sembra una stazione di treno di una città del sud.
+131-2_es-x#Dico del sud perchè sono stato a Napoli e mi la ricordo tanto...
+131-3_es-x#tutto sporco, molta gente dentro, anche c'è un ragazzo che mi sembra che vuole "prendere " qualcosa che non e sua.
+131-4_es-x#Anche mi sembra una stazione un po strana perchè ci sono tavole di un bar nell mezzo, e non dovevano essere la perchè questa è una zona di transito di tutti quelli che viaggiano; che salgono e scendono del treno.
+131-5_es-x#In una di queste tavole c'è una signora che era seduta prendendo un cafe ma ha avuto un incidente perchè, non so di dove, è caduto una valigia che ha fatto cadere tutto ciò che c'era sull la tavola.
+131-6_es-x#C'è un'altra valigia che è cadendo sopra di la copia e il uomo si vuole protegere a se stesso e anche la donna che va con lui.
+131-7_es-x#Mentre tanto, l'altro uomo li ruba la valigia alla dona.
+132-1_es-x#In questo bozzeto non si vede bene che relazione può esistere tra tutta questa gente.
+132-2_es-x#Tuttavia, possiamo dire che tutti sonno nella stazione e che ognuno fa qualquosa.
+132-3_es-x#Vediamo come ci sono alcuni che comprano il biglietto o chiedono informazioni, oppure quel posto che se vede in fondo a sinistra potrebbe essere una edicola, quindi comprano qualche giornale o magazine.
+132-4_es-x#In uno dei treni si vede come una ragazza già è salita ma c'e una persona fuori che le da qualcosa, potrebbe essere suo padre che la aiuta o forse le da qualcosa che lei aveva dimenticato prima di partire.
+132-5_es-x#Del altra parte, se può apprezzare una situazione di nerviosismo da alcuni, ma ci sono altri che aspettano tranquillamente mentre fumano una sigaretta.
+132-6_es-x#Anche c'e una copia, si vede come si bacciano, sembrano molti innamorati...
+133-1_es-x#La imagine sintetiza il sviluppo di un gruppo di azioni derivate d'una prima che è la sfuggita dun piccolo cane.
+133-2_es-x#Il schizzo trasmote il movimento, la velocità della azione.
+133-3_es-x#Ci sono molti elementi costitutivi della immagine.
+133-4_es-x#Non trovo tutti facilmente identificabili.
+133-5_es-x#Nella mia oppinione il autore gioca a creare questa sensazione di caos, confusione.
+133-6_es-x#Il contesto è quello di una stazione di ferrocarrile dove le diverse persone che appariscono fanno delle diverse attività.
+133-7_es-x#Ci sono quelli che aspettano il treno, qualli che salutano ai suoi, quelli seduti nei tavoli di un caffè...
+133-8_es-x#Il fatto della apparizione d'un cane in corsa sconvolge l -
+133-9_es-x#Queste animale fa cadere tutti gli elementi del tavolo sul quale una vechia signora prendeva una torta, le baliggie appariscono elevati "nel aria "?
+133-10_es-x#qualcuno aprofita la confusione per roubare una baliggia, l'altra coppia rimangono come si nulla avesse sucesso e ci sono anche qualli chi non si sono accorti.
+134-1_es-x#Sono le 2 pomeriggio di un sabato d'aprile in mezzo la stazione Porta Nuova affinchè Io e i miei amici possiamo prendere un treno che ci porti a Padova per andare a un concerto.
+134-2_es-x#Purtroppo, ci troviamo in un posto tanto affollato, caotico, estressante.
+134-3_es-x#Siamo in fretta per arrivare al binario numero due.
+134-4_es-x#Ci troviamo una coppia troppo appassionata che non ci permette passare, inoltre, un uomo caricando miole baliggie e quindi anche lui ci blocca.
+134-5_es-x#Addirittura, un cane che corre in mezzo un ristorante e sfortunatamente, fa cadere uno dei tavoli.
+134-6_es-x#Questo è come un vicolo cieco: le baliggie dell'uomo, la coppia che si baccia, il cibo a terra che fa scivolare...
+134-7_es-x#Ma quello che veramente ci disturba è un uomo che fuma, quando tutti sanno che è vietato!
+134-8_es-x#Tutto è così sporco: un giornale a terra, le bevande fra il pattume e anche c'è tantissimo rumore: il cane, la signora arrabbiata perchè il cane l'ha lasciato senza mangiare, le fanciulle che salutano piangendo ai loro ragazzi, l'operaio che guarda la coppia e canta: "il tempo va, passano le ore, e finalmente faremo l'amore..." mitica canzone d'Alex Britti.
+135-1_es-x#Questa potrebbe essere una scena clasica a una stazione di treno Italiana.
+135-2_es-x#Sono le due di pomeriggio e la la stazione è un vero casino.
+135-3_es-x#Per gualcuna strana ragione i cani sono in tutti posti (Nella stazione, nei tram, nei treni, nei bar, ecc).
+135-4_es-x#Noi non possiamo fumare in nessuna parte, ma loro possono andare liberamente in tutti posti, e, essendo cosi, il pasticio è seguito.
+135-5_es-x#Un cane fuori di testa vuta per terra il tavolo di un cafe.
+135-6_es-x#la anziana seduta al tavolo sofre un colpo di cuore.
+135-7_es-x#Qualcuno si gira per guardare la scena, momento che un ladro aproffitta per prendere la valigia che una coppia di distratti turisti.
+135-8_es-x#Sicuramente, qualcuno ha visto il furto, ma nelle grandi città i problemi dei altri, alla gente non li fregano un cazzo, e cosi scappa liberamente.
+135-9_es-x#Va bene?
+136-1_es-x#È una scena simpatica.
+136-2_es-x#Secondo me è il cane il protagonista di una scena dinamica che si svolge dentro di una stazione di treno.
+136-3_es-x#Forse il cane ha scappato del suo proprietario e ha cominzato a correre; è andato sulla tavola del bar e la tavola si si è caduta con tutto ciò che stava sulla stessa assieme.
+136-4_es-x#Una scattola che era sulla tavola è andata in aria per causa di questa e ha spaventato una coppia che si trovava indietro con le valigge; il uomo in centro che ha visto come il cane è andato sulla tavole guarda dove va seguendolo con lo sguardo pronto per correre tra di lui per evitare più catastrofi.
+136-5_es-x#Fuori di la scena principale si trovano ancora una coppia che si bacciano ignoranti di tutto e un uomo che osserva mentre fumano una sigarretta.
+137-1_es-x#Ieri al parco aveva una ragaza e suo fidansato quando arribato un uomo forte con un bel cuorpo e ha presso la ragaza in bracio e la portato via e suo fidansato legieva e non aveva sentito niente.
+137-2_es-x#Poi ha guardato chi non era gli suo ragaza e ha deto qual cosa non anda bene e guardo lontano e ha visto quello che sucedeva è andato in freta ha ragiungere la sua dona è poi a preso questo uomo le ha fato male e lo a posto per terra.
+137-3_es-x#Però la ragaza non era felice ma si a araviato perque voleva ucire con l'altro.
+137-4_es-x#allora suo fidansato e sorpreso e le dice perque fai così si io te ho salvato perque non voglio che nisuno te face male.
+137-5_es-x#Però envece ley risponde che luy non vole farle male perche luy me ama e io amo a queste uomo.
+137-6_es-x#Così quello chi era suo fidansato ha capito che ley era molto cativa.
+138-1_es-4#Questa stazione mi sembra diversa e speciale, come quelle che vediamo spesso nei film.
+138-2_es-4#Ci sono molti personaggi, ognuno con la sua storia, che " si incontrano " in questa stazione.
+138-3_es-4#Possiamo vedere a una bella coppia che si baccia, perchè di sicuro alcuno di loro partirà.
+138-4_es-4#Poi, c'è un uomo che porta una valigia e che pare un ladro.
+138-5_es-4#C'è anche una maglia seduta al bar de la stazione e si vede come la sua valigia e il suo pranzo sono adesso in terra perchè la tavola è caduta.
+138-6_es-4#Nella stazione possiamo anche vedere un uomo un po'vecchio e misterioso che osserva tutto quello che succede.
+138-7_es-4#In generale, la stazione è " disordinata " e mostra la fretta con cui viviamo ogni giorno in questa società, dove ognuno a la su storia da racontare e il suo cammino da seguire.
+138-8_es-4#Infatti, essere in una stazione è un bel modo di cominciare il viaggio de la nostra vita.
+139-1_es-1#Sonno le due alla stazione di Ferrocarrile di Siracusa.
+139-2_es-1#È un'ora di abbastanza aggitazione per essere domenica.
+139-3_es-1#C'è già molte persone aspettando i loro treni che andrano da Germania, dalla Costa Azurro e da Barcelona.
+139-4_es-1#Di recente, un treno di Milano è arrivato 15 minuti più tarde di l'ora; una ragazza bionda e attrattiva è tornata di questa cità dove lei lavora come modelo per visitare suo marito siciliano.
+139-5_es-1#Si besanno con tanta pasione che mentre, un uomo con cative intenzione sustrae loro cose.
+139-6_es-1#Due turiste tedeschi sono uscite di il treno in quello momento, ma non hanno visto qualcosa; non sono sentito la azzione d'il ladrono che si vado subitamente.
+139-7_es-1#Il uomo tedesco non puoi vedere la carta senza occhiali; veramente puoi vedere niente...
+139-8_es-1#per dire la verità non è ancora sentitto qualcosa quanto un giotto è andato pressto alla stazione e ha derribato la tavola dove mangiava una vecchia donna.
+140-1_en-2#Aurelia e Giuseppe avevano un rapporto un po' brusco.
+140-2_en-2#Litigavano sempre perchè le due erano ostinatissimi e non volevano compromettere mai.
+140-3_en-2#Nonostante, nel fondo avevano la convinzione che si sarebbero sposati uno di questi giorni.
+140-4_en-2#Un giorno Giuseppe e Aurelia hanno avuto una lotta partciolarmente feroce.
+140-5_en-2#Giuseppe ha fatto un tatuaggio sul suo braccio con un cuore e con il nome Aurelia dentro del cuore.
+140-6_en-2#Quando Aurelia ha visto questa nuova aggiunta al suo ragazzo, si è impazzata.
+140-7_en-2#"Cosa succede se ci separiamo?" gli ha chiesto.
+140-8_en-2#"Non ci separiamo mai," Giuseppe ha risposto.
+140-9_en-2#"Ben detto! So che tu pensi questo ma la verità è che non sono contenta con il nostro rapporto. Passiamo tutto il giorno insieme e litighiamo sempre."
+140-10_en-2#"E questo e la mia colpa? Chi sta urlando a chi adesso?" ha chiesto Giuseppe.
+140-11_en-2#Allora, hanno litigato per qualche ora.
+140-12_en-2#Alla fine, Giuseppe ha preso Aurelia e è andato via.
+140-13_en-2#Quando ha arrivato al parco vicino al loro apartamento, ha cominciato a camminare nella direzione del lago che c'era nel parco.
+140-14_en-2#Teodoro, che si era seduto su un sedile, ha visto Giuseppe passare con Aurelia in braccio.
+140-15_en-2#Teodoro era un tipo zitto e non particolarmente coraggioso ma quando ha visto la povvera Aurelia completamente disperata il suo instinto prottetivo ha emergetto.
+140-16_en-2#"Ferma!" ha urlato.
+140-17_en-2#Quando Giuseppe non ha risposto, Teodoro gli ha seguito e gli ha datto un gran pugno nella faccia.
+140-18_en-2#Giuseppe era un uomo abbastanza grande ma non era particolarmente forte o valiente.
+140-19_en-2#Ha stroncato subito e ha restato lì con la lingua fuori.
+140-20_en-2#Teodoro era molto orgoglioso del suo compimento e aspettava dei complimenti di Aurelia.
+140-21_en-2#Ma l'amore è strano.
+140-22_en-2#Quando Aurelia ha visto il suo povvero ragazzo sul pavimento, ha cominciato a piangere.
+140-23_en-2#"Lui è tanto buono e ha tanto affetto per me " ha pianto.
+140-24_en-2#"Ha anche fatto un tatuaggio sul suo braccio che declara il suo amore. Che buono, che carino, che gentile."
+140-25_en-2#Teodoro ha cominciato a spiegare lo che ha visto; il enorme Giuseppe come un uomo delle cave con la ragazza urlando nei bracci.
+140-26_en-2#"Questo è il suo modo di esprimere il suo affetto per me," ha pianto Aurelia.
+140-27_en-2#"C'è un lago che mi piace nel parco e quando abbiamo litigato, lui viene qui con me. Sa che si possiamo sedirci lì per un tempo e parlare dei nostri problemi, tutto sarebbe risolto. Il problema è che sempre resisto quando questo succede, ma alla fine è per lo meglio. Lo amo. Lo amo come é."
+140-28_en-2#Teodoro ha chiesto scusa della donna arrabbiata e è andato.
+140-29_en-2#"Che pazzesca," ha pensato. "L'amore e veramente cieco."
+141-1_en-2#Una mattina d'estate, Carlo leggeva il giornale in parco.
+141-2_en-2#Era un giorno perfetto, soleggiato con una leggera brezza.
+141-3_en-2#Mentre leggeva un articolo sulla politica un uomo con una donna a tracolla ha passato davanti la sua panchina.
+141-4_en-2#La donna pareva sentirsi scomoda.
+141-5_en-2#Carlo ha pensato anche che lei gli aveva fatto segni chiedendo aiuto.
+141-6_en-2#Era generalmente un uomo timido ma ha sentito che era necessario fare qualcosa per auitarla.
+141-7_en-2#Quindi ha buttato il giornale sul pavimento, si ha alzato e ha cominciato a inseguire l'uomo colla donna a tracolla.
+141-8_en-2#Ha reagito immediatamente senza pensare razioanlmente sulla situazione.
+141-9_en-2#Quando si ha avvicinato ha visto che l'uomo era molto forte con musculi grandi.
+141-10_en-2#Pareva essere un pesista.
+141-11_en-2#D'altra parte Carlo era studioso e mai aveva fatto ginnastica in una palestra.
+141-12_en-2#Neanche guardava i sport.
+141-13_en-2#Era molto debole e adesso si sentiva impaurito.
+141-14_en-2#Non sapeva cosa fare per aiutare alla donna.
+141-15_en-2#Un pugno dal uomo probabilmente sarebbe sufficiente per ferirlo severamente.
+141-16_en-2#Ma sapeva che avrebbe una coscienza sporca se decideva di ignorare la situazione.
+141-17_en-2#Tutto sarebbe più facile se aveva l'aiuto di qualcun altro ma non c'era niente in quel settore del parco.
+141-18_en-2#Carlo ha pensato che l'uomo probabilmente lo ha scelto per quella ragione.
+141-19_en-2#Con tutto il coraggio che aveva ha cominciato a correre e ha cominciato a gridare.
+141-20_en-2#Ha gridato, " Ferma! Ferma!"
+141-21_en-2#L'uomo si ha voltato indietro e al vederlo a Carlo ha cominciato a ridere.
+141-22_en-2#Carlo si ha arrabbiato più e lo ha spinto giù al uomo.
+141-23_en-2#La donna ha urlato fortemente al cadere e ha implorato con Carlo dicendo che non c'era un problema e non necessitava il suo aiuto.
+141-24_en-2#Ma Carlo non ha sentito niente.
+141-25_en-2#Si concentrava troppo sulla situazione e sulle cose che voleva fare al uomo.
+141-26_en-2#Carlo lo ha picchiato.
+141-27_en-2#L'uomo non pensava che Carlo lo poterebbe ferire quindi non aveva fatto niente per proteggersi.
+141-28_en-2#Carlo è stato sorpreso.
+141-29_en-2#Mai aveva vinto una lotta.
+141-30_en-2#La sua determinazione l'aveva datto il coraggio che necessitava.
+141-31_en-2#Ma la donna ha interrotto i suoi sentimenti d'orgoglio quando lo ha colpito nel braccio.
+141-32_en-2#Era arrabbiata.
+141-33_en-2#Ha spiegato che l'uomo era il suo ragazzo e la portava sulla spalla perchè avevano trascorso tutta la mattina camminando per il parco ed ora non voleva camminare più.
+141-34_en-2#Quindi per scherzo lui l'aveva alzato per un tempo.
+142-1_en-2#«Amore»
+142-2_en-2#Un giorno, un uomo stava seduto tranquilamente su una panchina in un parco fuori la città.
+142-3_en-2#Stava pensando ad affari suoi, leggendo un giornale e passando l'ora di pranzo prima che doveva ritornare a classe (frequentava una università vicino a quel parco).
+142-4_en-2#Poco a poco, si è accorto che una coppia stava litigando vicino a lui.
+142-5_en-2#Guardava in torno, ma non poteva vedere questa coppia, solo sentirla.
+142-6_en-2#Poi, si è accorto che le loro voci stavano vincendo.
+142-7_en-2#La ragazza stava quasi gridando a questo punto.
+142-8_en-2#Tra poco il uomo seduto vedeva un altro uomo, più grande di lui, avicinandosi con la ragazza sulla spala.
+142-9_en-2#Lei stava molto arrabiata ed era anche impotente di liberarsi.
+142-10_en-2#Il uomo tentava di continuare a pensare ad affari suoi, ma non poteva ignorare il fatto che questa donna aveva bisogno d'aiuto.
+142-11_en-2#Il uomo si alzava, e seguiva la coppia.
+142-12_en-2#Lui sappeva che sicuramente il altro uomo sapeva combattere meglio, quindi, sperava di avere il vantaggio di sorpresa.
+142-13_en-2#Finalmente, quando ha raccolto abastanza couragio, chiedeva il altro uomo di fermarsi.
+142-14_en-2#Il altro uomo faceva scendere la donna a terra, e quando si girava, il uomo lo colpisce prima che il altro se ne accorto.
+142-15_en-2#Era molto soddisfatto con se stesso, e passava qualche secondo prima che si e accorto che la donna non era sollevata.
+142-16_en-2#Invece, lei sembrava ancora rabiata, ma questa volta, di lui.
+142-17_en-2#L'amore è una cosa che fa la gente diventare pazzi!
+143-1_es-1#In questa imagine possiamo vedere una situazione confussa.
+143-2_es-1#La stessa si sviluppa in una stazione di treni.
+143-3_es-1#Si vede tante persone in diverse situazioni.
+143-4_es-1#Sotto il orologio, dove si trovano tutti li orari di partenze e arrivi, possiamo vedere tre amiche guardando li orari.
+143-5_es-1#Vediamo anche un signor aiutando a una signora scendere del treno.
+143-6_es-1#Nel centro della imagine si trova la confussione perche ć è una coppia bacciandosi, una signora chiamando al suo cane, un signor che senza volere lascia cadere suoi pachi sulla tabola della signora.
+143-7_es-1#Infine, questa stazione ha molti situazione diverse al stesso tempo e la gente non vedeno che ocorre vicino a loro..
+144-1_fr-1#- Quest'immagine rapresenta la gente in una stazione.
+144-2_fr-1#C'e una donna che non c'e la fa piu del rumore e prova di chiudersi gli orecchi.
+144-3_fr-1#Sembra che il rumore gli da fastidio.
+144-4_fr-1#Vicino di lei, c'e un tavolo in terra forse qualcuno l'ha fatto cadere.
+144-5_fr-1#Il suo cane ha avuto paura e quindi si è scapato.
+144-6_fr-1#C'e anche una coppia che si sta bacciando, la separazione sembra troppa difficile.
+144-7_fr-1#La donna ha lasciato la sua borsa in terra.
+144-8_fr-1#Possiamo anche vedere un uomo con un capello nero che tira la sua valigia.
+144-9_fr-1#Penso che fosse lui che ha fatto cadere il tavolo perchè era in fretta.
+144-10_fr-1#C'e un vecchio che sta fumando una sigaretta..
+145-1_fr-3#Questa scena si succede alla stazione ad un'ora dove c'è molta gente.
+145-2_fr-3#Ci sono delle persone che salgono o scendono dei treni, altre persone stano aspettando, si vede anche una coppia che si sta baciando, un ladro che tenta di scapparsi...
+145-3_fr-3#Sono le due del pomeriggio.
+145-4_fr-3#Un uomo vestito come una donna stava mangiando mentre il tavolo cadde per terra.
+145-5_fr-3#Un cane ne ha profitato per prendere una salsiccia.
+145-6_fr-3#Possiamo anche vedere un meccanico geloso quando guarda la coppia innamorata.
+145-7_fr-3#Un vecchio uomo sta fumando osservando questa scena alla stazione.
+145-8_fr-3#Forse lui è un'artista, uno scrittore che si ispira di quest'agitazione per sviluppare la sua fantasia e poter scrivere il suo prossimo libro...
+145-9_fr-3#Infatti, a quest'ora, la stazione è un grande casino!
+146-1_fr-5#Questa scene si svolge nell'una gara di treni.
+146-2_fr-5#Possiamo vedere tre treni in gara, nel questo di mezzo due persone scendono una valisa.
+146-3_fr-5#Sulla destra della fotografia, c'è un copia, apparamente fa un momento che non si sono vedere, dunque abbraciarsi.
+146-4_fr-5#Dientro, un mecanico li guarda, mi sembra un po galoso!
+146-5_fr-5#Nel centro dell'imagina c'è una persona un po strana, vestita di nera, sembra un ladro.
+146-6_fr-5#Dientro lui, una donna lo gardo con un po di paura.
+146-7_fr-5#Sulla sinistra è suceedo un piccolo accidento, un cane ha rinversare una tavola e tutte le cose sotto sono, adesso, Sulla terra.
+146-8_fr-5#Il cane sta corrire e la sua proprietaria è su una siede e prova di chiamar lui.
+146-9_fr-5#Possiamo vedere, ancora, una scattola con delle scarpe nell'aria, dunque il cane c'è ne andatto pocco tempo fa.
+146-10_fr-5#Nel primo plano possiamo vedere un vecchio, lui fuma.
+146-11_fr-5#Possiamo ancora vedere un poster con una fotografia d'isola, forse questo è una pubblicità di un'azienda di viaggi.
+146-12_fr-5#Nel fondo dell'imagina, ci sono delle personne chi entrano e escono della garo e chi salutarsi
+146-13_fr-5#È l'una, del pomeriggio perchè possiamo ancora vedere delgli piatti del pranzo sulle tavole e delle tasse per il cafè..
+147-1_es-1#Questa imagine descrive una stazione di treni caotico.
+147-2_es-1#Ci sono tantissime genti di diversi eta, color di pele e anche situazione echonomico.
+147-3_es-1#Il orolochio appunto a la 1 (credo que del pomerigio " ma deb'essere inverno pergue tutti sono con capellini e pantaloni lungo.
+147-4_es-1#Un cane si a scopato della signora chiera pranzando, forze ha visto un goto.
+147-5_es-1#Un ragozzo e una ragozza si stano bachiando e un vechio e un mecconico gli stano guardondo.
+147-6_es-1#La stazione sembra vechia e che troppo cosino, ma i treni sono moderni e tutti puliti.
+147-7_es-1#A lo lontano si puo ver un ristorante di " fast-faod "
+147-8_es-1#Como conclusione deblo dire que questa stazione non mi piace per niente..
+148-1_es-1#Il giorno in la stazione persa: Oggi è un qualche giorno nella stazione persa sempre è lo stesso e i atti si succedeno tutti giorni della medesima forma: i treni che parteno a qualche destino solo conosciuti per chi salgono in loro.
+148-2_es-1#È la una, farse la ora più affollata della stazione, le coppie si salutano prima di partire per un periodo più o meno lungo di tempo,
+148-3_es-1#Il barbone aspeta come se apetasse il aviso deill suo treno; il sempre presente uomo strangno que guarda tutto ma non vede chi sono acanto suo e la signora spaventata per avere buttato sull suolo il la arroba che portava di ritorno a sua casa, mentre il suo cane tenta scapassi per giocare nella spazzatura.
+148-4_es-1#Anche operai, chiave inglesa in mano, i raggazini cresta punk addiritura tentando di fare il viaggio gratis.
+148-5_es-1#tutti loro sono oggi cui e domani sara lo stesso..
+149-1_de-2#Sul quadro si vede una situazione all'una stazione centrale alle 11.
+149-2_de-2#Nel fondo si vede tre treni e dall'uno scende una donna con il suo bagaglio.
+149-3_de-2#A sinistra è mostrato una cosa simile ad un restaurante dove siede un uomo che sembra molto arabbiato sulla situazione.
+149-4_de-2#A destra c'è una copia baciandosi mentre un uomo con i vestiti bui ruba il bagaglio.
+149-5_de-2#Un cane corre fra il quadro.
+149-6_de-2#Sembra che il proprietario l'ha perso perchè porta anchora la cosa che tiene normalemente il proprietario.
+149-7_de-2#Avanti si vede un uomo che occuppa tutto che succede.
+149-8_de-2#È un uomo dal mare.
+149-9_de-2#Tutto è molto caotico e un grande casino e si vede sopratutto molte spazzature.
+149-10_de-2#La stazione ne è pieno..
+150-1_fr-2#L'altro ieri al parco...
+150-2_fr-2#C'era due uomini e una signora al parco l'altro ieri.
+150-3_fr-2#Il signore con gli occhiali leggeceva sul un panchina, quando il muscoloso uomo con un tatuaggio ha portanto in braccio la signora.
+150-4_fr-2#Poi l'uomo con gli occhiali si alzaceva e si arrabiaceva, e ha battanto l'altro uomo.
+150-5_fr-2#Ma la signora urlaceva e litigaceva con lui perchè è innamorata di l'uomo con il tatuaggio..
+151-1_fr-2#L'altro ieri al parco...
+151-2_fr-2#Un uomo molto muscoloso prende la ragazza in braccio.
+151-3_fr-2#Questo uomo ha un tatuaggio, L'uomo che legge jiornale picchia l'uomo muscoloso.
+151-4_fr-2#Alla fine la ragazza ama l'uomo muscoloso dunque l'uomo con gli occhiali è triste..
+152-1_fr-2#L'altro ieri al parco...
+152-2_fr-2#La scena si svolge in un parco, ci sono due uomini e una donna.
+152-3_fr-2#Un uomo molto muscoloso e l'altro porta gli occhiali e non ha i muscoli ma quando vedeva il uomo muscoloso sta portando la sexy donna in i suoi bracci, l'altro si arrabbia perchè per lui è molto brutale e arrabiato.
+152-4_fr-2#Dunque si decida di picchiare l'uomo muscoloso perchè sè innamorato, più tardi, batta l'uomo muscoloso allora la signora è riconosciente per lui e vuo essere la fidanzata di lui..
+153-1_fr-2#L'altro ieri al parco...
+153-2_fr-2#La storia si svolge al parco.
+153-3_fr-2#Un uomo leggeve un journale.
+153-4_fr-2#Un uomo molto muscoloso sta portando in braccio una bella signora.
+153-5_fr-2#L'uomo che leggere il journale, si alza e si arrabia.
+153-6_fr-2#Batte il uomo molto muscoloso perche la signora sta hurlando.
+153-7_fr-2#L'uomo che porta gli occhiali da vista è sorridente e soddisfatte perche ha vinco.
+153-8_fr-2#Ma è stupido perchè l'uomo con il tatuaggio è il fidanzato della signora.
+153-9_fr-2#La signora era innamorata dell'uomo con gli occhiali da vista.
+153-10_fr-2#La signora si arrabia..
+154-1_fr-2#Ieri al parco, un grande uomo ha rapito una bella ragazza.
+154-2_fr-2#Ero sedetta sull'una panchina.
+154-3_fr-2#Alloro, questo grande uomo passó davanti a me, con la bella ragazza sulla sua spalla, che gridava.
+154-4_fr-2#Allora, ho deciso di aiutarla, picchiando questo uomo violento.
+154-5_fr-2#En effecto, l'ho picchiato.
+154-6_fr-2#Pensava che la ragazza mi ringraziarebbe, peró ha comenciato di piangere.
+154-7_fr-2#Sono stato sorpreso, e le ho domandato che aveva.
+154-8_fr-2#Alloro, me ha detto che questo uomo brutto e violento era il suo fidanzato, che erano enamorati e che io, ero violento.
+154-9_fr-2#So oggi che le non sono lo che pensiamo
+155-1_fr-2#Iieri al parco, un uomo voleva prendere una ragazza.
+155-2_fr-2#Un altro uomo èra seduto nell'una pancina.
+155-3_fr-2#Stava leggendo un giornale.
+155-4_fr-2#questo vede la scena e crede che la ragazza aveva bisogna di aiuto.
+155-5_fr-2#Allora, il uomo ha picchiato l'aggressore ch'è caduto.
+155-6_fr-2#Il uomo stava molto fiero.
+155-7_fr-2#La ragazza stava chocata.
+155-8_fr-2#Alla fine della questa storia, la ragazza stava molto arrabbiata, perchè il uomo ch'è per ter è il suo fidanzatto.
+155-9_fr-2#Vuole picchiare il ragazzo perchè stava in amoratti..
+156-1_fr-2#Iieri al parco Un uomo voleva rapire una donna e un altro uomo che Stava seduto leggendo suo giornale se alza per impedire il rapito.
+156-2_fr-2#l'uomo impedirii il rapito era felice ma la donna non era felice, all'inizio era trista, poi era arrabiata perche l'uomo era forse un amico o un fidanzato voleva picchiare l'uomo invece di regraciar l'uomo lui credeva que sia un agressore ma era su fidanzato..
+157-1_fr-1#L'altro ieri al parco...
+157-2_fr-1#Un homo vede un giornale.
+157-3_fr-1#Improvvisamente un homo arriva con un donna sopra spalle.
+157-4_fr-1#L'homo sembrava nervoso.
+157-5_fr-1#La donna sembrava spaventato.
+157-6_fr-1#L'homo arrabbia y picchia altro homo.
+157-7_fr-1#La donna è stupita y lei arrabbia contro l'homo..
+158-1_fr-2#In questa stazione, c'è un uomo che rubare una valige.
+158-2_fr-2#Ci sono treni.
+158-3_fr-2#Un uomo e una donna sono innamorati perché baciano.
+158-4_fr-2#Sono una coppia.
+158-5_fr-2#Un cane rovescia un tavolo e il cibo.
+158-6_fr-2#È la confusione.
+158-7_fr-2#La cena è per terra.
+158-8_fr-2#Il cane core.
+158-9_fr-2#Ci sono colonne con locondina.
+158-10_fr-2#Il ladro spinge un uomo.
+158-11_fr-2#Il tavolo è macchia..
+159-1_fr-2#La scena si svolge in una stazione.
+159-2_fr-2#Posso vedere all'orologio che sono due ore..
+159-3_fr-2#È la con fusione nella stazione, un uomo porta i pacchi, fa cadere un dei pacchi.
+159-4_fr-2#Il pacco rovescia la tavola della donna che stava mangiando.
+159-5_fr-2#I cibi sono caduto per tera.
+159-6_fr-2#E possible che il cane stà corriendo, aveva spaventato e ha fuggito.
+159-7_fr-2#La donna sempre, è confusa perchè il suo cane si è fuggito.
+159-8_fr-2#Un uomo vestito in negro, approfita della con fusione per robare il valise di che stanno baciati.
+159-9_fr-2#Il complice li aspetta, è anche vestito in negro,
+160-1_fr-3#Nella stazione..
+160-2_fr-3#La scena passa en una stazione.
+160-3_fr-3#Ci sono molte azioni, ma tutta l'attenzione parece essere affascinata per una azione speciale.
+160-4_fr-3#Per cominciare, descriviamo le differente azioni.
+160-5_fr-3#Al primo piano possiamo vedere un uomo che somiglia a un marino, guarda enamorati che si braciano.
+160-6_fr-3#Dietro di loro, un meccanico guarda a un uomo, vestito de noro, che è springiuto a un uomo.
+160-7_fr-3#La donna che è con il uomo springintato guarda anche nella stessa direzzione che un'altra donna, che è seduta a una tavola con cibo, ma la tavola è rovesciata, un cucciolo corre dopo una cosa, una azione che se passa dietro del cornice della foto.
+160-8_fr-3#Che può essere?
+161-1_fr-3#È una stazione molto agitata!
+161-2_fr-3#In questa stazione ha due innamorati che si sono baciando.
+161-3_fr-3#Possiamo supporre che uno de loro va.
+161-4_fr-3#Accanto a loro c'è un meccanico che tiene en la mano utensile per riparare.
+161-5_fr-3#Nel mezzo del disegno, c'è un uomo strano che sembra fuggire qualcuno.
+161-6_fr-3#Sembra in collera, possiamo dire questo con la sua espressione in la sua faccia.
+161-7_fr-3#In questo disegno c'è un cane che se scappa de la sua padrone.
+161-8_fr-3#Dietro l'uomo stano che è nel mezzo del disegno c'è una coppia.
+161-9_fr-3#L'uomo porta qualche pacchi.
+161-10_fr-3#Y due pacchi sono per terra sventrati.
+161-11_fr-3#In primo piano vediamo un uomo che porta un berretto..
+162-1_fr-3#In questa stazione c'è molti sceni, e elemento principale è gli stupiditi del cane.
+162-2_fr-3#Il cane monta su la tavola della donna e questo animale ha rovescia tutta la tavola.
+162-3_fr-3#Il cane sporca la donna che si trova a vecino de la tavola.
+162-4_fr-3#Questo incidente ha turbato tutta la stazione perchè tutti gli genti guardano il cane.
+162-5_fr-3#Al centro dell'immàgine c'è un uomo strano che vuole acchiappare il cane..
+163-1_fr-3#Ci sono parecchie personne in questa stazione.
+163-2_fr-3#In primo piano vediamo la testa di un anziano con un berretto e una sciarpa.
+163-3_fr-3#Vediamo anche un cane nel centro della stazione.
+163-4_fr-3#Tutte le persone guardano nella stessa direzzione.
+163-5_fr-3#Possiamo dire che cualcuno della stazione ha datto un sparo perché la signora alla destra se tappa le orecchie e la sua tavola dove sta mangiando è caduta.
+163-6_fr-3#Vediamo anche una scatola che sta volando con scarpe.
+163-7_fr-3#Vediamo una coppia inammorata che si bacia
+163-8_fr-3#Vediamo un uomo nel centro che sembra avere paura perché guarda una cosa che non possiamo vedere.
+163-9_fr-3#Sembra un poò immobile cattivo per la cosa o la persona che guarda.
+163-10_fr-3#Questa immagine è un pò misteriosa perché non vediamo la cosa che è il centro dell'azione..
+164-1_es-4#Ieri al parco Luigi stava leggendo il giornale quando ha visto un uomo portando una ragazza sugli ombri.
+164-2_es-4#La ragazza cridava chiedendo aiuto.
+164-3_es-4#Allora Luigi si è alzato e ha colpito l'uomo per socorrere la ragazza.
+164-4_es-4#C'è stata una lotta e alla fine Luigi ha vinto e l'uomo si è svanuto.
+164-5_es-4#Luigi era contento d'avere salvato la ragazza.
+164-6_es-4#Ma lei non sembrava contenta sino arrabiata.
+164-7_es-4#Lui ha detto " coglione, cosa hai fatto al mio ragazzo? Sto per chiamare ai carabinieri "
+164-8_es-4#Luigi aveva credutto che l'uomo la stesse pattando, e invece si trattava soltanto di un giocco tra innamorati..
+165-1_es-1#Ieri al parco c'era un ragazzo che era seduto leggendo il giornale, allora un'altro ragazzo, che sembrava il piu forte del mondo, e si sembrava a " HULK " aveva presso una bella ragazza bionda che bisognava l'aiuto di un uomo bravo.
+165-2_es-1#Vedendo questo, che accadeva, il ragazzo piu piccolo è andato per prendersele con " HULK " e per aiutare alla bella ragazza bionda.
+165-3_es-1#Dopo la rissa, quella che aveva vinto il piccolo ragazzo, lui aspetava che la ragazza bionda li baciara ma lui aveva fatto il deficente perche il ragazzo che era al pavimento era il suo fidanzato, il piccolo ragazzo aveva fatto brutta figura!!!
+166-1_de-3#Cane scapato Roma.
+166-2_de-3#Ieri notte nella stazione Termini c'èra un incidente grave quando un cane feroce è scapato.
+166-3_de-3#Non c'èrano feriti, anche il cane non portava una muserola.
+166-4_de-3#Fortunatamente il danno non era molto grave.
+166-5_de-3#e tutta la gente solo era terrorizzata.
+166-6_de-3#Alle due quando arrivava il treno di Torino e molta gente stavano al binario, un cane grosso e molto feroce si liberava con il suo guinzaglio e scapava velocemente.
+166-7_de-3#Scapando tirava giù una tovaglia di un tavolo nel ristorante e rottava la stoviglie.
+166-8_de-3#Dopo correva contro un uomo togliendo il suo zaino.
+166-9_de-3#Anche una coppia in amoro era molestato di questo cane.
+166-10_de-3#Mezza ora dopo un mecanico coraggiato riusceva cacciare il cane feroce è metteva alla polizia di stazione.
+166-11_de-3#Il proprietario non conosciuto puo prendere il cane del canile a Roma..
+167-1_de-5#A l'una alla stazione sono sempre tante persone, aspettano la departura del treno.
+167-2_de-5#Certo, alla statione ce una bar, sala attesa e ance un ristorante.
+167-3_de-5#Il pavimento abastanza sporcato.
+167-4_de-5#Un cane escapa, togliendo un tavolo pieno di mangime, brioch, aqua minerale, salsicice e altre cose.
+167-5_de-5#Un disastro.
+167-6_de-5#Un ladro ruba una valigia, rompendo un uomo.
+167-7_de-5#Lui perde le sue paketti.
+167-8_de-5#La valigia rubato e di una copia in amore, naturalmente loro non sentano niente.
+167-9_de-5#Un lavoratore aspetta con attrezature in mano.
+167-10_de-5#Un uomo veccio observa la situatione
+168-1_de-5#Siama alla stazione all'oro 14h.
+168-2_de-5#Tanti treni asspetano che i viaggiatori scendono o arrivano.
+168-3_de-5#Presto i treni vanno partire.
+168-4_de-5#Una coppia si abbraccia per dire arrivederci e un operaio del treno gli osserva.
+168-5_de-5#Un ladro a preso un valige e va via veloce.
+168-6_de-5#Mentre un altro uomo perde il suo valige e tutta la roba va buttato via
+168-7_de-5#In fronte c'è un uomo aspettando sua moglie.
+168-8_de-5#Su una tavola c'è un piatto, una forchetta e un cotello, una bottiglia di vino, un bicchiere d'acqua e una tassa.
+168-9_de-5#Una donna sta seduta e crida mentre un'altra tavola cade per colpa di un cane chi corre doppo avere messo tutta la roba parterra.
+168-10_de-5#Un giornale e degli rifiuti sono parterra..
+169-1_en-2#Cèra una volta a Bra quando la città era dominato di un uomo brutto, si chiama -Fabio.
+169-2_en-2#Lui prendeva le donne bionde alla casa sua, dove, secondo a tutti che mangiano al bar converso, faceva un tipo di gonna con i loro capalli.
+169-3_en-2#Tagliero i loro capelli, e poi desegni i vestiti con quelli.
+169-4_en-2#Sul questo giorno, c'era, un uomo, x si chiama Leonard, chi leggeva il giornale nel parco
+169-5_en-2#Visto Fabio con una bella donna sopra il suo torso, prendendo lei fiori.
+169-6_en-2#Leonard, normalmente timido, alzarsi con arrabia.
+169-7_en-2#Ha preso la sua rivista " smacked " in verso la schina.
+169-8_en-2#Fabio ha caduto subito.
+169-9_en-2#Leonard era molto contento che ha auitito una donna.
+169-10_en-2#Ma non solo ogna donna, mah una bellissima donna.
+169-11_en-2#" Ciao,...Stai va bene?"
+169-12_en-2#" No!! No!! Che sucesso? Che hai fatto a mio marito?"
+170-1_en-3#Ieri al parco ho visto delle cose molto strano.
+170-2_en-3#Era domenica e sono andato al parco per leggere il giornale e prendere un po di sole.
+170-3_en-3#Mentre leggevo ho visto un uomo molto muscoloso che ha presso una donna in mano sulla sua dietro.
+170-4_en-3#Ho pensato a me stesso che ci sia una problema e sono alzato alla palconcino per aiutar le.
+170-5_en-3#Correvo con fretta a questo uomo cattivo, prendevo la donna e le mettevo sulla terra.
+170-6_en-3#Ho detto al uomo, " Che cosa pensi stai facendo? Siamo nel parco communale la violencia è vietato!"
+170-7_en-3#Dopo di che ho pateato lui tre o cinque volte e lui è caduto per terra.
+170-8_en-3#Ho pensato che ho fatto bene e ho aiutato la donna ma in fatti lui è il ragazzo di lei.
+170-9_en-3#Dopo lei ha spiegato questo ho sentito molto male e mi sono sentito emberazzo..
+171-1_fr-1#Ieri al parco, stavo leggendo il mio gianale.
+171-2_fr-1#I ucili cantavano, et tepo era molto bello...
+171-3_fr-1#era un bellissimo domenica mattina.
+171-4_fr-1#Nel medio de un articolo su Berlusconi, ho sentito un donna gridare, alzo le testa che cosa vedo: un fortissimo ragazzo portanto une bella ragazza su la sua spella.
+171-5_fr-1#Arrabiato con questo bruto articolo sulla politica di nostro Berlusconi nazinale, prendo il mio coraggio à due mani e deciso di andare a salvaguadare questa infrtunata ragazza.
+171-6_fr-1#Avevo realmente bisogno di lasciare andare via tuta la collera che avevo acumulato leggendo questo articolo perchè ho fermato questo grandissimo ragazzo con solamente un pugno.
+171-7_fr-1#A questo punto pensavo: "Che forte sono! Ho salvaguadato una donna".
+171-8_fr-1#Lei non diceva niente e dopo una minuta rimasta qua, ha subito comminciato a gridare contre me.
+171-9_fr-1#Non capisco...
+171-10_fr-1#A si!!! oups...
+171-11_fr-1#era il suo ragazzo
+172-1_es-2#...Ieri al parco ero seduto tranquillo sul bancone e mentre leggevo il quotidiano domenicale.
+172-2_es-2#Ho visto questo tipo benfato con una faccia di fiera e i musculi tensionati, che portava una ragazza adosso, sulla spalla.
+172-3_es-2#Io ero convinto che lei muoveva i piedi e gridava disperata, pensavo che lei era stata rapita da questo " mastidante " Voi ho pensato due volte e personificando a Clark Kent mi sono alzato ed ero deciso d'affrontare qualsiasi pericolo, ma dovevo aiutare alla " donna in pericolo ".
+172-4_es-2#È incredibile come, dalla e cumulazione di rabbia uno è capace di concentrare l'energie e le forze necessarie per aggire in queste situazioni.
+172-5_es-2#Tre anni in pallestra sono stati sufficienti per poter demolire a queto gigante di un solito golpe.
+172-6_es-2#Purtropo la ragazza non poteva neanche dire una parolla dalla impressione del mio intervento.
+172-7_es-2#Ero siccuro che quel giorno avevo cambiato il nebbioso destino di questa donna.
+172-8_es-2#Ma invece no, Dopo, un po'lei aveva cambiato dall'assembro bianco la sua faccia è diventata rossa isterica; e non capivo cosa succedeva.
+172-9_es-2#Poi, ha cominciato a gridarmi in faccia, e mentre urlava mi raccontava la storia d'amore che avevo apea interroto.
+172-10_es-2#Lui addiritture l'aveva apea incontrata, dopo aver giocato a nascondersi nel parco tutta la mattina, e in quel momento la stava portendo alla colina doveva c'era questo picnic che lui aveva preparato per lei..
+172-11_es-2#Aveva l'immagine d'eroe con cui mi sono alzato quel mattino..
+173-1_de-3#Il casino alla stazione di Venezia
+173-2_de-3#Alle due il treno da Padova è arrivato puntualmente.
+173-3_de-3#Di solito arriva in ritardo.
+173-4_de-3#Però questa volta tutto era diverso.
+173-5_de-3#Alla stazione di Vanazia c'era un casino che causava paura.
+173-6_de-3#C'erano due anziani vestiti in nero che erano colpevoli per questo caos.
+173-7_de-3#Uno dei due correva da una parte all'altra per rubare velocemente le cose di valore degli passanti.
+173-8_de-3#Una donna che sedeva al tavolo di un bistro li ha osservati.
+173-9_de-3#Per questa casa l'altro dei due mascherati ha buttato a terra il tavolo a cui sedeva la signora.
+173-10_de-3#Lei se ne è andata subito e ha chiamato la polizia.
+173-11_de-3#Quando i ladri volevano andare via, una coppia ha lanciato una valigia verso uno dei personi criminali, però non l'ha colpito.
+173-12_de-3#I due ladri erano scappati quando la polizia arrivava.
+173-13_de-3#Un'altra coppia che si baciava tutto il tempo, quando succedeva il giallo, era sorpresa quando un poliziotto è venuto da loro e li ha chiesti, se avbrebberò notati qualcosa speciale...
+174-1_de-2#Erano le due del pomeriggio.
+174-2_de-2#La stazione centrale era abbastanza affollata di gente.
+174-3_de-2#Persone aspettavano alla partenza, arrivavano, mangiavano, chiacchieravano...
+174-4_de-2#una giornata normale.
+174-5_de-2#Signora Caluzzi, che era arrivata per prendere suo nipote dalla stazione per accompagnarlo a casa sua, si è seduta nel café.
+174-6_de-2#Naturalmente è arrivata troppo presto.
+174-7_de-2#A volte lei si chiedeva perché.
+174-8_de-2#Di solito esce dalla casa almeno un'ore prima dell'ora dell'appuntamenti.
+174-9_de-2#Vivere da sola non fu adatta per lei - non si trovò a suo agio.
+174-10_de-2#Che bei tempi quando visse ancora Giovanni!
+174-11_de-2#La cameriera arrivò e chiese: "Che cosa desidera?".
+174-12_de-2#Ordinò un café e un'acqua.
+174-13_de-2#Aspettò.
+174-14_de-2#Ancora mezz'ora.
+174-15_de-2#All'improvviso senti un grido forte.
+174-16_de-2#Accanto al suo tavolo si svolgeva una scenata come in giallo: Un'uomo giovane che prima aveva aspettato sotto l'orologio della stazione, iniziava a correre e stendeva la mano alla borsa di una donna con un cane.
+174-17_de-2#In questo momento gli avvertimenti si susseguono con rapidità travolgente: Dalla folla si staccò un 'altro uomo (la Signora Caluzzi presumava che sia un poliziotto) e voleva afferare il ladro, ma esso invece era più veloce.
+174-18_de-2#Dava una mazzata al petto del poliziotto e si obrigava ad andarsene con la tasca.
+174-19_de-2#Il poliziotto perdeva l'equilibrio, barcollava indietro e dava una spinta ad un uomo con tre scatole piene di cibo.
+174-20_de-2#Le scatole cadevano a terra e sul tavolo della Signora C., e naturalmente il tavolo anche cadeva subito.
+174-21_de-2#La donna attaccata già inseguò il ladro, il suo cane indietro.
+174-22_de-2#Ormai anche il poliziotto riusciva ad e gli dava la caccia.
+174-23_de-2#Per un momento la Signora C. non si muoveva.
+174-24_de-2#Poi aiutava a cogliere i cibi dalla terra, riflettando che a volte sicuramente vale la pena di arrivare troppo presto...
+175-1_de-5#È l'uno nella mattina
+175-2_de-5#Ci sono tante persone nella stazione, salutando o dando il benvenuto.
+175-3_de-5#Un artigiano observa diffidentemente una coppia baciando, che è tanto occupato con baciare che non nota il uomo fregando una delle sue valigie.
+175-4_de-5#Ma c'e un uomo vecchio che vede, fumando, la rapina.
+175-5_de-5#Nel bar è seduta una donna, imbratato con il cafè e chiamando il suo cane, il malfattore che si ha liberato con forza della gamba del tavolo..
+176-1_de-1#Vedo una stazione, ci sono i treni, tre treni.
+176-2_de-1#È due ore, e in questo momento succede tanto.
+176-3_de-1#C'e un uomo con un berretto, che sta fumando una sigaretta giù destra in questa immagine.
+176-4_de-1#E una stazione molto sporco, c'e una gazetta, una bottiglia rotta, i salumi, una tazza, e tanti altre cose sul suolo.
+176-5_de-1#C'e una coppia, credo che non sé hanno visitato un lungo tempo.
+176-6_de-1#Lui porta un mantello lungo, i calzoni, ma i stivali, é una donna slanciata e bionda sua ragazzo ha i capelli nero?
+176-7_de-1#Loro sé stanno bacendo.
+176-8_de-1#Si vede un meccanico che sta guardando a questa coppia, e sta tenendo uno strumento.
+176-9_de-1#Si vede anche un uomo con vestiario nero, e non sono secura, ma credo che lui sta rubendo una valigia, perché lui sembra sospetto.
+176-10_de-1#C'e una donna sinistra, con un cappello, sua cane sta fuggendo..
+177-1_de-1#È l'una.
+177-2_de-1#Una donna e un uomo si baciano.
+177-3_de-1#Non sembrano spaventati.
+177-4_de-1#C'è un ristorante dove sede una donna.
+177-5_de-1#Il tavolo davanti alla donna è caduto a terra.
+177-6_de-1#Si vede le stoviglie e la macchia sulla tovaglia del tavolo caduto.
+177-7_de-1#Un uomo a meta del quadro sembra come un ladro, perché è vestito completamente nero è fa un viso come se sia un ladro.
+177-8_de-1#Si vede tre treni.
+177-9_de-1#Intorno agli altri tavoli del ristorante non ci sono delle persone.
+177-10_de-1#A destra si distingue un affisso, evidentemente pubblicità per le vacanze.
+177-11_de-1#Il giornale si trova al fondo dell'aula della stazione.
+177-12_de-1#Mi pare che al centro del quadro non sia così tranquillo come al resto..
+178-1_es-1#È una manera strana de capire la mente femenile perche non è vero che noi siamo " embriagate " per l'omini cattivi (non sempre, forza qualcuna volta...)
+178-2_es-1#Le done non pensiamo che è meigiore la fora che l'intelecto!!!
+178-3_es-1#L'uomo che lege il gionale representa un uomo culto, (credo, anche per I occhiale) è una falsa caricatura di quello che l'omine pensono del cerebelo della dona.
+178-4_es-1#In i disegni la donna non vovi andare con il ragazzo forte, pero cuando il auito ragazza va per lei, la ragazza è enrabiata; è come dire que le donne siamo pazze!!
+178-5_es-1#è non è vero
+179-1_es-1#Ieri al parco ho guardato un uomo prendendo una ragazzo per la forza e come doppo un altro uomo ha ayutato alla ragazza pensando questa cosa ma la ragazza si ha arrabiato perche lei voleva andare con el primo ragazzo
+180-1_es-1#Ieri al parco io stavano ledendo la Gazzeta dello Sport quando un uomo più forte stava anche al parco.
+180-2_es-1#Lui stava portando una donna con i sui bracci.
+180-3_es-1#Io sonno un ragazzo più bravo ed io ho detto all'uomo: " Che cosa fai con questa ragazza?"
+180-4_es-1#E lui dicono: " Non è il tuo problema. Per favore, tu devi andare via ".
+180-5_es-1#Io stavano molto annoiato perchè me dispiace quando la gente parla con me senza modali.
+180-6_es-1#Quindi, io le di più forte al uomo con la mia coma en la sua testa.
+180-7_es-1#Ma la donna no stava felice.
+180-8_es-1#Lei me ha detto " Che cosa hai fatto? Io sonno la sua fidanzata!"
+181-1_es-x#Ce un uomo che legge all parco quando vede un'altro uomo che ha presso una ragazza e la porta su l'eschiena.
+181-2_es-x#Subito, il primo uomo s'alza e schiafa a quello che porta la dona per aiutarla, ma, quando pensa che la ragazza li ringrazarai, lei comincia a sgridare tutta arrabiatta perche ha pichiato ai suo fidanzato.
+182-1_fr-4#Ieri al parco un uomo con una maglietta nera ha cacciato una donna bionda.
+182-2_fr-4#Un secondo uomo, con occhiali, guardando la scena ha deciso di aiutarla.
+182-3_fr-4#Si è preparato a combattere e ha colpito il primo uomo che teneva la donna finche la lascia e perde conoscenza.
+182-4_fr-4#e allora, la donna avrebbe devuto ingraziarlo però non l'ha fatto!
+182-5_fr-4#Invece lei s'è arrabiata su questo buon uomo.
+182-6_fr-4#Così perchè erà il suo fidanzato l'uomo che la porteva e adesso lui è a terra.
+182-7_fr-4#Il secondo uomo, pien di buona volontà, non lo sapeva e ha fatto un sbaglio.
+182-8_fr-4#Lui penseva fare bene e adesso si litigano tutti.
+183-1_de-1#Ieri al parco è successuto qualcosa stana.
+183-2_de-1#C'era un ragazzo molto forte e non simpatico.
+183-3_de-1#Questo uomo con i capelli nero voleva prendere una bella ragazza a casa.
+183-4_de-1#La donna aveva molto paura e gridava a aiuta.
+183-5_de-1#Un altro ragazzo che ha letto il giornale, lo ha ascoltato.
+183-6_de-1#Subito andava per aiutare le donna ma dopo lei era triste.
+183-7_de-1#L'uomo non sapeva perchè però poi la ragazza gli ha raccontato che l'uomo forte era il suo ragazzo.
+184-1_es-1#Un giorno con sole Mario ha andato a un parco a leggere il giornale quando subito un ragazzo di più o meno venti tre anni portava una ragazza che sembrava avere un po di paura.
+184-2_es-1#Mario non poteva fermare guardando senza fare niente.
+184-3_es-1#Allora Mario lascia il giornale e va presto a pugnare a queste bruto ragazzo, lui pensava che faceva una buona accione ma non e vero, perche queste ragazzo solo era scherzando con la sua affidanzato.
+185-1_es-1#Ieri al parco e ha visto una cosa strana...
+185-2_es-1#un uuomo portaba non delicatamente una donna
+185-3_es-1#di pronto la sua virilità li ha salito al cervello!
+185-4_es-1#Devo fare qualque cosa!
+185-5_es-1#Di subitto si ha alzato la andato verso le uomo e li ha fatto un colpo di pugno..
+185-6_es-1#." è libera signorina!!"
+185-7_es-1#- Ma...cosa fai? lei li ha detto - siamo gravando uno spot
+186-1_es-2#Ieri al parco ero tranquilamente leggendo il giornale quando, di subito, ho guardato un uomo (un tamarro!) che portava una ragazza sulla schiena e lei gridava " Aiuto! per favore! Aiuto!".
+186-2_es-2#A me veramente non piaccion i disturbi, ma ho deciso di aiutarla, perche il uomo sembrava arrabiato e ho pensato che poteva far male a la bella ragazza.
+186-3_es-2#Mi sono alzato, veramente eroico, e ho salvato alla donna de quella bestia.
+186-4_es-2#Ma poi, e questo è quello che non capisco, la donna ha cominciato ad insultarmi e a dirmi che quel " mareviglioso " ragazzo era suo marito!
+186-5_es-2#Ho deciso che non farò più il " superman "!
+187-1_en-2#Sedevo nel parco con la mia rivistia.
+187-2_en-2#il tempo era bella e ero contenta quando.
+187-3_en-2#Bah! Ho visto un uomo brutto e grande e chiaramente, più grande che io e quest'uomo è portato una donna con gli bracchi.
+187-4_en-2#La donna aveva paura, allora, ho deciduto a fare qualche cosa per aiutare la donna.
+187-5_en-2#Sono corso e ho batto l'uomo sulla sua testa.
+187-6_en-2#è caduto sulla terra senza una parola.
+187-7_en-2#Ero contenta perchè ho pensato che ero un buono personne e mi ho sentito bravo!
+187-8_en-2#Ma, quando ho chiesto la donna (chi era bellissima) si ha sentito me adesso, la donna e ha arrabiato!
+187-9_en-2#" Perchè?" ho detto,
+187-10_en-2#" Perchè non ero nel pericoloso, non avevo paura, perchè quest'uomo e il mio marito. Era una gioca!"
+188-1_en-4#Ieri al parco Marco si sedeva leggendo un giornale quando un uome l'ha passato.
+188-2_en-4#Su una spalla portava una bellissima donna.
+188-3_en-4#Marco ha corso verso l'uomo, pensava che fosse il suo dovuto di salvare la donna.
+188-4_en-4#Dunque l'ha presa dall'uomo e subito dopo lo colpiva.
+188-5_en-4#Marco non avrebbe potuto prevedere la reazione della donna che ha salvato.
+188-6_en-4#Ha aspettato baci e parole di ringraziamento invece, lei cominciava a piangere e l'ha qua colpito se stessa...
+188-7_en-4#l'uomo era il suo marito e stavano giocando!
+189-1_en-5#Ieri al parco un ragazzo camminava con la sua fidanzata sulla schiena.
+189-2_en-5#Era un bel giorno,e hanno passato un ragazzo che leggeva.
+189-3_en-5#Sentendo le urle della ragazza, ha salito gli occhi e ha visto questa situazione strana.
+189-4_en-5#Si sentiva coraggioso, e, pensan che questa ragazza aveva bisogno di aiuto, ha colpito il ragazzo.
+189-5_en-5#Era così fiero - non era quasi mai coraggioso ma adesso aveva salvato questa ragazza.
+189-6_en-5#Però non ha reagito come lui voleva: ha urlato e ha detto ogni tipi di parolacce.
+189-7_en-5#La ragione per questo è diventato chiar il ragazzo la portava a un ristorante sorpreso!
+190-1_es-1#Ieri al parco uomo portaba una donna.
+190-2_es-1#Il uomo semblava malo.
+190-3_es-1#E altro uomo che ha veduto tutto ha pensato che la dona necesitava aiuta.
+190-4_es-1#Il secondo uomo ha pensato che questa dona bisognava un aiuto perche la cara dell suo collega non era molto buona.
+190-5_es-1#E la vestimenta non ache era moto buona.
+190-6_es-1#Il secondo uomo si pensa che il poi aidare a la dona perche è molto forte.
+190-7_es-1#Dopo che l'aiuta la dona non era niente contenta perche il suo fidanzato era sull pavimento.
+190-8_es-1#La dona moto enfadata crida al uomo per la sua aiuta e dice che non bisongava niente di aiuda che era il suo fidanzato e loro erano giocando.
+190-9_es-1#E la dona voleva sapere perche questo uomo che no conescheva ha posato il suo fidanzato sull pavimento
+191-1_fr-1#Ieri al parco un uomo leggeva semplicemente il suo giornale, seduto su un banco.
+191-2_fr-1#All'improvviso passa davanti a lui un uomo forte e virile che, in collera sembra prendere con lui una donna che lui ha immobilizzata sulla sua schienna.
+191-3_fr-1#L'uomo al giornale, pensando che la ragazza è in pericolo, decide di diffenderla.
+191-4_fr-1#Sicuro di far bene lui si batta con il monstro di muscoli, e vince.
+191-5_fr-1#Fiero del suo atto eroico, pensa aver liberato la principessa.
+191-6_fr-1#Però quella comincia a piangere e lamentarsi alla vista dell'uscita della battaglia.
+191-7_fr-1#Allora si torna verso del'uomo al giorno che fiero di lui, sta sorridendo, e gli grida, mostrando l'altro che sta a terra, che quello è il suo fidanzato e che lei l'ama.
+191-8_fr-1#Purtroppo tutte le storie non finiscono bene
+191-9_fr-1#E l'imagine esterna non è sempre la verità.
+192-1_fr-1#In una piazza, un raggazzo legge, tranquilo, il giornale.
+192-2_fr-1#Doppo, non può più leggere: un tipo camina con la sua ragazza sulla schiena, come se fosse una borsa di patatini.
+192-3_fr-1#Lei è hurlando.
+192-4_fr-1#Allora, il raggazzo, come dopo un sogno, si sveglia e si discopre un immenso coraggio
+192-5_fr-1#Va per dare giustizia perchè nel giornale era la storia di Bofman e li ha datto envia di fare come lui.
+192-6_fr-1#Da un colpo sul tipo brutto e la sua raggazza hurla: Perchè hai ucciso il mio amore? Perchè? Dio!
+192-7_fr-1#L'altro non capisce un catzo.
+192-8_fr-1#Anch'io forse a lei piaceva essere maltratta, come era una borsa di verdadura che, al fine, è propria!
+192-9_fr-1#Non aiutare nessuno perchè li piace essere maltrata
+193-1_es-1#Ieri al parco un signore prendio una donne.
+193-2_es-1#Lei non era bene in questa situazione, ma un forte ragazzo di neri capelli la aiuto.
+193-3_es-1#Il forte ragazzo di neri capelli usava occhialli.
+193-4_es-1#Ma la donne era la fidanzata dell'oltro signore.
+193-5_es-1#Ancora no e possibile aiutare a una donne in questa situazione per che e possibile che non la piacciono.
+194-1_es-1#Ieri al parco un uomo molto forte ha presso con le sue braccie una bella donna, e un altro uomo che c'era seduto leggendo il giornale ha visto tutto quello que he succeso, quindi è andato subito a cercare questo uomo, lo he pichiato molto forte e questo uomo e caduto a terra.
+194-2_es-1#La donna quando ha visto questo uomo pichiare a l'altro, li ha deto: tu sei un uomo fortissimo, ma questo uomo che tu hai pichiato e il mio fidanzato, non hai nessun diritto a pichiarlo così forte.
+194-3_es-1#Quindi questo uomo si he arraviato moltissimo perche lui he pensato que l'altro uomo voleva fare male a le belle donne.
+195-1_en-2#Ieri al parco mi sono seduto per leggere il giornale- non c'era rumore finchè un uomo e la sua ragazza giocavano vicino.
+195-2_en-2#Lui l'ha preso e ha cominciato a gridare ed essere com un bambino
+195-3_en-2#Dopo cinque minuti non riescevo più a leggere, mi sono fermato, e ho deciso di dire qualcosa.
+195-4_en-2#'Silenzio per favore, e sbrigatevi! '
+195-5_en-2#L'uomo mi ha detto le parolacce quindi l'ho dato un calcio grande.
+195-6_en-2#Mi sentivo fiero, ma la donna non era felice per niente!
+195-7_en-2#Mi ha spiegato che erano al parco per festeggiare il loro anniversario matrimoniale, e anche perchè lei era incinta.
+195-8_en-2#Sono partito presto, e spero che non li vedo ancora.
+196-1_de-1#Ieri al parco assesavano due parsoni.
+196-2_de-1#Un ragazzo e una ragazza.
+196-3_de-1#Subito è arrivato un altro ragazzo che ha preso la ragazza con lui.
+196-4_de-1#La ragazza faceva rumore
+196-5_de-1#Il altro ragazzo sulla banca ha visto tutto.
+196-6_de-1#Come ora molto grande con grande muscoli ha deciso a salvare on ragazza
+196-7_de-1#E andato e ha vinciuto contro il cattivo.
+196-8_de-1#Ancora stava molto contenda di questa situazione la ragazza e stata non molto felice.
+196-9_de-1#Tutto questo era un gioco, lei ha detto.
+196-10_de-1#Adesso ha perso il suo fidanzato.
+196-11_de-1#Ma come lei ha visto che il altroragazzo è molto più simpatico e la ha salvato è difficile per lei a sceliere fra le due!
+197-1_es-1#Ieri al parco quando era seduto leggendo il giornale in Piazza Castelho visto un'huomo cattivo che prendeva una bellissima ragazza, cred con mala intencione.
+197-2_es-1#Ho pensato, devo fare qualcosa, quindi mi ho armato di valore e ho datto un colpo all'huomo.
+197-3_es-1#L'ho lasciato senza conoscimento in terra è quando pensav avere stato un superman in azione, la donna mi ha detto Cosa hai fato con il mio amore? Solamente stavamo giocando.
+197-4_es-1#E io ho detto: Scusi, ma io pensava che questo era un segresto; La prossima volta non faro niente.
+198-1_en-2#Ieri al parco ho voluto un gelato ma il mio ragazzo non l'ha voluto.
+198-2_en-2#Il gelateria nel parco è il più buono della città dunque cominciavo a correre alla gelateria ma il mio ragazzo voleva andare al ristorante quindi ha cominciato di portarmi al ristorante, un uomo ci ha visto pensava che il mio ragazzo era un criminale.
+198-3_en-2#Dunque il uomo l'ha ucciso!!
+198-4_en-2#Ero molto triste e quando l'uomo aveva capito che " il criminale " era il mio ragazzo era anche triste e ha cominciato di piangere e poi mi sono accorta che mi sono inamorata con lui.
+198-5_en-2#Dopo abbiamo declarato la nostra amore la polizia è arrivato!
+199-1_es-2#Ieri al parco Io era leggendo accanto a una bella donna quando il suo marito arrivò e prendio a la sua moglie perche sembrava che era andata al parche con me ma Io ho detto che non era così e Io ho tirato al suelo.
+199-2_es-2#La bella donna non piangeva molto e io credeva che era perche mi ringraciava ma non era così,era perche questo uomo era il suo marito e Lei lo amava molto.
+200-1_en-2#Un uomo fortissimo passegiava per il parco e su la suaspalla portava una bella bionda.
+200-2_en-2#Un'altro uomo che aveva letto, ha visto cosa aveva successo ed ha preso la decisione di aiutarla.
+200-3_en-2#Allora si è alzato ed è andato per battarsi con l'uomo egoista
+200-4_en-2#Quando ha finito, tirava alla donna.
+200-5_en-2#'Ma perchè ha fatto questo' gridava la donna, 'Lui è il mio ragazzo!'
+201-1_es-1#Una ragazza è prendida per un uomo nella strada nelle giorni, per la mattina.
+201-2_es-1#La ragazza parla, no posso!
+201-3_es-1#e un ragazzo la guarda e va a fare che il uomo male, le permita andare per la sua casa.
+201-4_es-1#Il ragazzo benne fa che la raggazza è felice e la ragazza le dice al uomo benne, mille grazie, me piace, i uomi forti, Io posso avere un appuntamento con lei questa sera alle nove e mezza in piazza Vitorio Veneto.
+201-5_es-1#La ragazza e il ragazzo benne, se enamorato e se fanno marito e moglie.
+201-6_es-1#(e io eiguaro felice in tutta la vita)
