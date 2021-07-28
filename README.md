@@ -1,6 +1,6 @@
 # VALICO-UD_silver
 
-Automatically annotated learner Italian treebank. VALICO-UD gold is manually corrected and error annotated and is available in the UD repository (https://github.com/UniversalDependencies/UD_Italian-Valico)
+Automatically annotated learner Italian treebank. VALICO-UD gold is manually corrected and error annotated and is available in the UD repository (https://github.com/UniversalDependencies/UD_Italian-Valico).
 
 The texts are automatically annotated using UDPipe (https://ufal.mff.cuni.cz/udpipe/2).
 
