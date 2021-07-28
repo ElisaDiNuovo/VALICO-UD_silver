@@ -1,10 +1,12 @@
 # VALICO-UD_silver
 
-Automatically annotated learner Italian treebank. VALICO-UD gold is manually corrected and error annotated and is available in the UD repository (https://github.com/UniversalDependencies/UD_Italian-Valico)
+Automatically annotated learner Italian treebank. VALICO-UD gold is manually corrected and error annotated and is available in the UD repository (https://github.com/UniversalDependencies/UD_Italian-Valico).
 
 The texts are automatically annotated using UDPipe (https://ufal.mff.cuni.cz/udpipe/2).
 
-There are 201 texts (1,836 sentences), written by German, English, Spanish, and French native speakers.
+VALICO-UD_silver_LS.conllu contains 1,836 Learner Sentences (LS) corresponding to 201 texts, written by German, English, Spanish, and French native speakers learning Italian as L2.
+
+VALICO-UD_silver_TH.conllu contains a Target Hypothesis (TH), i.e., a grammatically corrected version, of the 1,836 LS.
 
 Together with the CoNLL-U files, two txt files are uploaded containing sentence id and sentence text separated by an hash symbol.
 
