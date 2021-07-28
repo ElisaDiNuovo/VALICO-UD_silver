@@ -4,7 +4,7 @@ Automatically annotated learner Italian treebank. VALICO-UD gold is manually cor
 
 The texts are automatically annotated using UDPipe (https://ufal.mff.cuni.cz/udpipe/2).
 
-There are 1,836 sentences composing 201 texts, written by German, English, Spanish, and French native speakers.
+There are 201 texts (1,836 sentences), written by German, English, Spanish, and French native speakers.
 
 Together with the CoNLL-U files, two txt files are uploaded containing sentence id and sentence text separated by an hash symbol.
 
